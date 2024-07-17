@@ -9,7 +9,7 @@ body {
     font-family: "Share Tech Mono", monospace;
     font-weight: 400;
     font-style: normal;
-    font-size: 12px;
+    font-size: 0.75rem;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -20,7 +20,7 @@ a {
 }
 
 .section {
-    width: 70ch;
+    max-width: 70ch;
     border: 4px double #ffffff95;
     margin: 8px 0px;
     padding: 8px;   
@@ -31,7 +31,7 @@ a {
     font-family: "Share Tech Mono", monospace;
     font-weight: 400;
     font-style: normal;
-    font-size: 12px;
+    font-size: 0.75rem;
 }
 
 .smallSection {
@@ -70,12 +70,25 @@ a {
 #avatar pre {
     font-family: "Share Tech Mono", monospace;
     color: #ffffff95;
-    font-size: 3px;
+    font-size: 0.188rem;
     font-weight: 400;
     font-style: normal;
-    line-height: 3px;
+    line-height: 0.188rem;
 }
 
 #contact {
     width: 40ch;
+}
+
+@media only screen and (max-width: 768px) {
+    body {
+        font-size: 0.5rem;
+    }
+    .section pre {
+        font-size: 0.5rem;
+    }
+    #avatar pre {
+        font-size: 0.12533333333rem;
+        line-height: 0.12533333333rem;
+    }
 }
