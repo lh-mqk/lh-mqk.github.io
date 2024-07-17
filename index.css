@@ -1,0 +1,81 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: black;
+    color: #ffffff95;
+    font-family: "Share Tech Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+a {
+    color: #ffffff95;
+}
+
+.section {
+    width: 70ch;
+    border: 4px double #ffffff95;
+    margin: 8px 0px;
+    padding: 8px;   
+}
+
+.section pre {
+    color: #ffffff95;
+    font-family: "Share Tech Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+}
+
+.smallSection {
+    border: 4px double #ffffff95;
+    padding: 8px;
+    height: fit-content;
+}
+
+.sectionName {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 8px;
+    padding-bottom: 8px;
+    border-bottom: 4px double #ffffff95;
+}
+
+/* ////////////////////////// */
+
+#introduction {
+    text-align: center;
+}
+
+#contactWrapper {
+    width: calc(70ch + 22px);
+    display: flex;
+    justify-content: space-between;
+    margin: 8px 0px;
+}
+
+#avatar {
+    width: 24ch;
+    display: flex;
+    justify-content: center;
+}
+
+#avatar pre {
+    font-family: "Share Tech Mono", monospace;
+    color: #ffffff95;
+    font-size: 3px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 3px;
+}
+
+#contact {
+    width: 40ch;
+}
