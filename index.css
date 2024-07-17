@@ -80,7 +80,7 @@ a {
     width: 40ch;
 }
 
-/* @media only screen and (max-width: 768px) {
+@media only screen and (max-width: 768px) {
     body {
         font-size: 0.5rem;
     }
@@ -91,4 +91,4 @@ a {
         font-size: 0.12533333333rem;
         line-height: 0.12533333333rem;
     }
-} */
+}
