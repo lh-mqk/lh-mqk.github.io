@@ -20,7 +20,7 @@ a {
 }
 
 .section {
-    max-width: 70ch;
+    width: 70ch;
     border: 4px double #ffffff95;
     margin: 8px 0px;
     padding: 8px;   
