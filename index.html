@@ -55,27 +55,27 @@
       "topic2": {
         name: "Infinitive of purpose",
         desc: "Practice using the to-infinitive to express purpose (answering 'why?').",
-        json: "./topic2.json"
+        json: "https://lh-mqk.github.io/topic2.json"
       },
       "topic3": {
         name: "Nouns: countable and uncountable",
         desc: "Practice identifying and using countable and uncountable nouns correctly in sentences.",
-        json: "./topic3.json"
+        json: "https://lh-mqk.github.io/topic3.json"
       },
       "topic4": {
         name: "Present simple",
         desc: "Practice using the present simple tense for habits, routines, general truths, negatives, questions, and short answers.",
-        json: "./topic4.json"
+        json: "https://lh-mqk.github.io/topic4.json"
       },
       "topic5": {
         name: "Present simple: 'have got'",
         desc: "Practice using 'have got' and 'has got' for possession, appearance, family, and timetabled events.",
-        json: "./topic5.json"
+        json: "https://lh-mqk.github.io/topic5.json"
       },
       "topic6": {
         name: "Present simple: 'to be'",
         desc: "Practice using the present simple of the verb 'to be' (am, is, are) in affirmative, negative, question, and short answer forms.",
-        json: "./topic6.json"
+        json: "https://lh-mqk.github.io/topic6.json"
       }
     };
 
@@ -105,7 +105,8 @@
         userAnswers = Array(topicData.questions.length).fill(null);
         renderQuestion();
       } catch (e) {
-        questionArea.innerHTML = '<span style="color:red">Failed to load questions. Please ensure the JSON file is present.</span>';
+        console.error("Failed to load or parse JSON:", e);
+        questionArea.innerHTML = `<span style="color:red">Failed to load questions.<br>${e.message || e}</span>`;
       }
     }
 
