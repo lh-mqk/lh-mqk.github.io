@@ -1,0 +1,644 @@
+{
+  "id": "topic5",
+  "title": "Present simple: 'have got'",
+  "description": "Practice using 'have got' and 'has got' for possession, appearance, family, and timetabled events.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Which sentence is correct?",
+      "content": {
+        "choices": [
+          "She have got a car.",
+          "She has got a car.",
+          "She got a car.",
+          "She haves got a car."
+        ]
+      },
+      "answer": "She has got a car.",
+      "explanation": "Use 'has got' for he/she/it."
+    },
+    {
+      "id": "q2",
+      "type": "fill_blank",
+      "question": "Complete: I _____ (have got) brown hair.",
+      "content": {
+        "sentence": "I _____ brown hair.",
+        "word": "have got"
+      },
+      "answer": "have got",
+      "explanation": "Use 'have got' for I/you/we/they."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question": "Which is the correct negative form?",
+      "content": {
+        "choices": [
+          "He haven't got any friends.",
+          "He hasn't got any friends.",
+          "He not got any friends.",
+          "He doesn't got any friends."
+        ]
+      },
+      "answer": "He hasn't got any friends.",
+      "explanation": "Use 'hasn't got' for he/she/it in negatives."
+    },
+    {
+      "id": "q4",
+      "type": "fill_blank",
+      "question": "Complete: They _____ (have got) a new car.",
+      "content": {
+        "sentence": "They _____ a new car.",
+        "word": "have got"
+      },
+      "answer": "have got",
+      "explanation": "Use 'have got' for they."
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "Which question is correct?",
+      "content": {
+        "choices": [
+          "Has you got a pet?",
+          "Have you got a pet?",
+          "Have got you a pet?",
+          "You have got a pet?"
+        ]
+      },
+      "answer": "Have you got a pet?",
+      "explanation": "Use 'Have/Has + subject + got' for questions."
+    },
+    {
+      "id": "q6",
+      "type": "fill_blank",
+      "question": "Complete: My sister _____ (has got) long hair.",
+      "content": {
+        "sentence": "My sister _____ long hair.",
+        "word": "has got"
+      },
+      "answer": "has got",
+      "explanation": "Use 'has got' for he/she/it."
+    },
+    {
+      "id": "q7",
+      "type": "multiple_choice",
+      "question": "Which is the correct contracted form?",
+      "content": {
+        "choices": [
+          "I've got a bike.",
+          "Ive got a bike.",
+          "I has got a bike.",
+          "I got a bike."
+        ]
+      },
+      "answer": "I've got a bike.",
+      "explanation": "The correct contraction is 'I've got'."
+    },
+    {
+      "id": "q8",
+      "type": "fill_blank",
+      "question": "Complete: She _____ (not got) a brother.",
+      "content": {
+        "sentence": "She _____ a brother.",
+        "word": "not got"
+      },
+      "answer": "hasn't got",
+      "explanation": "Use 'hasn't got' for he/she/it in negatives."
+    },
+    {
+      "id": "q9",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "We've got basketball practice this evening.",
+          "We has got basketball practice this evening.",
+          "We got basketball practice this evening.",
+          "We have basketball practice this evening."
+        ]
+      },
+      "answer": "We've got basketball practice this evening.",
+      "explanation": "Use 'have got' or contraction 'We've got' for we."
+    },
+    {
+      "id": "q10",
+      "type": "fill_blank",
+      "question": "Complete: He _____ (has got) a terrible cold.",
+      "content": {
+        "sentence": "He _____ a terrible cold.",
+        "word": "has got"
+      },
+      "answer": "has got",
+      "explanation": "Use 'has got' for he/she/it."
+    },
+    {
+      "id": "q11",
+      "type": "multiple_choice",
+      "question": "Which is the correct negative contracted form?",
+      "content": {
+        "choices": [
+          "We haven't got any pets.",
+          "We hasn't got any pets.",
+          "We not got any pets.",
+          "We doesn't got any pets."
+        ]
+      },
+      "answer": "We haven't got any pets.",
+      "explanation": "Use 'haven't got' for I/you/we/they in negatives."
+    },
+    {
+      "id": "q12",
+      "type": "fill_blank",
+      "question": "Complete: _____ you got a new job?",
+      "content": {
+        "sentence": "_____ you got a new job?",
+        "word": ""
+      },
+      "answer": "Have",
+      "explanation": "Use 'Have' for questions with you/we/they."
+    },
+    {
+      "id": "q13",
+      "type": "multiple_choice",
+      "question": "Which is the correct short answer?",
+      "content": {
+        "choices": [
+          "Yes, I have.",
+          "Yes, I has.",
+          "Yes, I got.",
+          "Yes, I am."
+        ]
+      },
+      "answer": "Yes, I have.",
+      "explanation": "Use 'have' for short answers with I/you/we/they."
+    },
+    {
+      "id": "q14",
+      "type": "fill_blank",
+      "question": "Complete: Has she got _____ friends?",
+      "content": {
+        "sentence": "Has she got _____ friends?",
+        "word": ""
+      },
+      "answer": "many",
+      "explanation": "Use 'many' with countable nouns in questions."
+    },
+    {
+      "id": "q15",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'They / have / got / a / new / car'",
+      "content": {
+        "words": ["They", "have", "got", "a", "new", "car"]
+      },
+      "answer": ["They", "have", "got", "a", "new", "car"],
+      "explanation": "The correct sentence is 'They have got a new car.'"
+    },
+    {
+      "id": "q16",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "He's got a good job.",
+          "He got a good job.",
+          "He has a good job.",
+          "He have got a good job."
+        ]
+      },
+      "answer": "He's got a good job.",
+      "explanation": "Use 'has got' or contraction 'He's got' for he/she/it."
+    },
+    {
+      "id": "q17",
+      "type": "fill_blank",
+      "question": "Complete: I _____ (not got) any idea.",
+      "content": {
+        "sentence": "I _____ any idea.",
+        "word": "not got"
+      },
+      "answer": "haven't got",
+      "explanation": "Use 'haven't got' for I/you/we/they in negatives."
+    },
+    {
+      "id": "q18",
+      "type": "multiple_choice",
+      "question": "Which is the correct question form?",
+      "content": {
+        "choices": [
+          "What have you got?",
+          "What you have got?",
+          "What got you have?",
+          "What have got you?"
+        ]
+      },
+      "answer": "What have you got?",
+      "explanation": "Use 'What have you got?' for questions."
+    },
+    {
+      "id": "q19",
+      "type": "fill_blank",
+      "question": "Complete: She _____ (not got) a brother.",
+      "content": {
+        "sentence": "She _____ a brother.",
+        "word": "not got"
+      },
+      "answer": "hasn't got",
+      "explanation": "Use 'hasn't got' for he/she/it in negatives."
+    },
+    {
+      "id": "q20",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'I / have / got / brown / hair'",
+      "content": {
+        "words": ["I", "have", "got", "brown", "hair"]
+      },
+      "answer": ["I", "have", "got", "brown", "hair"],
+      "explanation": "The correct sentence is 'I have got brown hair.'"
+    },
+    {
+      "id": "q21",
+      "type": "multiple_choice",
+      "question": "Which is the correct negative form for 'they'?",
+      "content": {
+        "choices": [
+          "They hasn't got a dog.",
+          "They haven't got a dog.",
+          "They not got a dog.",
+          "They doesn't got a dog."
+        ]
+      },
+      "answer": "They haven't got a dog.",
+      "explanation": "Use 'haven't got' for I/you/we/they in negatives."
+    },
+    {
+      "id": "q22",
+      "type": "fill_blank",
+      "question": "Complete: _____ she got a meeting this morning?",
+      "content": {
+        "sentence": "_____ she got a meeting this morning?",
+        "word": ""
+      },
+      "answer": "Has",
+      "explanation": "Use 'Has' for he/she/it in questions."
+    },
+    {
+      "id": "q23",
+      "type": "multiple_choice",
+      "question": "Which is the correct contracted negative form for 'he'?",
+      "content": {
+        "choices": [
+          "He hasn't got a bike.",
+          "He haven't got a bike.",
+          "He not got a bike.",
+          "He doesn't got a bike."
+        ]
+      },
+      "answer": "He hasn't got a bike.",
+      "explanation": "Use 'hasn't got' for he/she/it in negatives."
+    },
+    {
+      "id": "q24",
+      "type": "fill_blank",
+      "question": "Complete: We _____ (have got) a big garden.",
+      "content": {
+        "sentence": "We _____ a big garden.",
+        "word": "have got"
+      },
+      "answer": "have got",
+      "explanation": "Use 'have got' for we."
+    },
+    {
+      "id": "q25",
+      "type": "multiple_choice",
+      "question": "Which is the correct question form for 'it'?",
+      "content": {
+        "choices": [
+          "Has it got a name?",
+          "Have it got a name?",
+          "It has got a name?",
+          "It have got a name?"
+        ]
+      },
+      "answer": "Has it got a name?",
+      "explanation": "Use 'Has' for he/she/it in questions."
+    },
+    {
+      "id": "q26",
+      "type": "fill_blank",
+      "question": "Complete: You _____ (not got) any pets.",
+      "content": {
+        "sentence": "You _____ any pets.",
+        "word": "not got"
+      },
+      "answer": "haven't got",
+      "explanation": "Use 'haven't got' for you/we/they in negatives."
+    },
+    {
+      "id": "q27",
+      "type": "multiple_choice",
+      "question": "Which is the correct short answer for 'Has she got a car?'",
+      "content": {
+        "choices": [
+          "Yes, she has.",
+          "Yes, she have.",
+          "Yes, she got.",
+          "Yes, she is."
+        ]
+      },
+      "answer": "Yes, she has.",
+      "explanation": "Use 'has' for he/she/it in short answers."
+    },
+    {
+      "id": "q28",
+      "type": "fill_blank",
+      "question": "Complete: They _____ (not got) any money.",
+      "content": {
+        "sentence": "They _____ any money.",
+        "word": "not got"
+      },
+      "answer": "haven't got",
+      "explanation": "Use 'haven't got' for they in negatives."
+    },
+    {
+      "id": "q29",
+      "type": "multiple_choice",
+      "question": "Which is the correct question form for 'we'?",
+      "content": {
+        "choices": [
+          "Have we got time?",
+          "Has we got time?",
+          "We have got time?",
+          "We has got time?"
+        ]
+      },
+      "answer": "Have we got time?",
+      "explanation": "Use 'Have' for I/you/we/they in questions."
+    },
+    {
+      "id": "q30",
+      "type": "fill_blank",
+      "question": "Complete: My parents _____ (have got) a house in the countryside.",
+      "content": {
+        "sentence": "My parents _____ a house in the countryside.",
+        "word": "have got"
+      },
+      "answer": "have got",
+      "explanation": "Use 'have got' for plural subjects."
+    },
+    {
+      "id": "q31",
+      "type": "multiple_choice",
+      "question": "Which is the correct negative form for 'it'?",
+      "content": {
+        "choices": [
+          "It hasn't got a battery.",
+          "It haven't got a battery.",
+          "It not got a battery.",
+          "It doesn't got a battery."
+        ]
+      },
+      "answer": "It hasn't got a battery.",
+      "explanation": "Use 'hasn't got' for he/she/it in negatives."
+    },
+    {
+      "id": "q32",
+      "type": "fill_blank",
+      "question": "Complete: _____ they got any children?",
+      "content": {
+        "sentence": "_____ they got any children?",
+        "word": ""
+      },
+      "answer": "Have",
+      "explanation": "Use 'Have' for they in questions."
+    },
+    {
+      "id": "q33",
+      "type": "multiple_choice",
+      "question": "Which is the correct contracted form for 'we'?",
+      "content": {
+        "choices": [
+          "We've got a problem.",
+          "We has got a problem.",
+          "We got a problem.",
+          "We have got a problem."
+        ]
+      },
+      "answer": "We've got a problem.",
+      "explanation": "Use 'We've got' as the contraction for 'we have got'."
+    },
+    {
+      "id": "q34",
+      "type": "fill_blank",
+      "question": "Complete: He _____ (not got) any sisters.",
+      "content": {
+        "sentence": "He _____ any sisters.",
+        "word": "not got"
+      },
+      "answer": "hasn't got",
+      "explanation": "Use 'hasn't got' for he/she/it in negatives."
+    },
+    {
+      "id": "q35",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'She / has / got / a / good / idea'",
+      "content": {
+        "words": ["She", "has", "got", "a", "good", "idea"]
+      },
+      "answer": ["She", "has", "got", "a", "good", "idea"],
+      "explanation": "The correct sentence is 'She has got a good idea.'"
+    },
+    {
+      "id": "q36",
+      "type": "multiple_choice",
+      "question": "Which is the correct question form for 'he'?",
+      "content": {
+        "choices": [
+          "Has he got a brother?",
+          "Have he got a brother?",
+          "He has got a brother?",
+          "He have got a brother?"
+        ]
+      },
+      "answer": "Has he got a brother?",
+      "explanation": "Use 'Has' for he/she/it in questions."
+    },
+    {
+      "id": "q37",
+      "type": "fill_blank",
+      "question": "Complete: I _____ (not got) a pet.",
+      "content": {
+        "sentence": "I _____ a pet.",
+        "word": "not got"
+      },
+      "answer": "haven't got",
+      "explanation": "Use 'haven't got' for I/you/we/they in negatives."
+    },
+    {
+      "id": "q38",
+      "type": "multiple_choice",
+      "question": "Which is the correct negative contracted form for 'she'?",
+      "content": {
+        "choices": [
+          "She hasn't got any money.",
+          "She haven't got any money.",
+          "She not got any money.",
+          "She doesn't got any money."
+        ]
+      },
+      "answer": "She hasn't got any money.",
+      "explanation": "Use 'hasn't got' for he/she/it in negatives."
+    },
+    {
+      "id": "q39",
+      "type": "fill_blank",
+      "question": "Complete: We _____ (have got) a lot of homework.",
+      "content": {
+        "sentence": "We _____ a lot of homework.",
+        "word": "have got"
+      },
+      "answer": "have got",
+      "explanation": "Use 'have got' for we."
+    },
+    {
+      "id": "q40",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'He / has / got / a / terrible / cold'",
+      "content": {
+        "words": ["He", "has", "got", "a", "terrible", "cold"]
+      },
+      "answer": ["He", "has", "got", "a", "terrible", "cold"],
+      "explanation": "The correct sentence is 'He has got a terrible cold.'"
+    },
+    {
+      "id": "q41",
+      "type": "multiple_choice",
+      "question": "Which is the correct question form for 'they'?",
+      "content": {
+        "choices": [
+          "Have they got any pets?",
+          "Has they got any pets?",
+          "They have got any pets?",
+          "They has got any pets?"
+        ]
+      },
+      "answer": "Have they got any pets?",
+      "explanation": "Use 'Have' for they in questions."
+    },
+    {
+      "id": "q42",
+      "type": "fill_blank",
+      "question": "Complete: She _____ (has got) a lot of friends.",
+      "content": {
+        "sentence": "She _____ a lot of friends.",
+        "word": "has got"
+      },
+      "answer": "has got",
+      "explanation": "Use 'has got' for he/she/it."
+    },
+    {
+      "id": "q43",
+      "type": "multiple_choice",
+      "question": "Which is the correct negative form for 'I'?",
+      "content": {
+        "choices": [
+          "I haven't got any money.",
+          "I hasn't got any money.",
+          "I not got any money.",
+          "I doesn't got any money."
+        ]
+      },
+      "answer": "I haven't got any money.",
+      "explanation": "Use 'haven't got' for I/you/we/they in negatives."
+    },
+    {
+      "id": "q44",
+      "type": "fill_blank",
+      "question": "Complete: _____ he got a new job?",
+      "content": {
+        "sentence": "_____ he got a new job?",
+        "word": ""
+      },
+      "answer": "Has",
+      "explanation": "Use 'Has' for he/she/it in questions."
+    },
+    {
+      "id": "q45",
+      "type": "multiple_choice",
+      "question": "Which is the correct contracted form for 'they'?",
+      "content": {
+        "choices": [
+          "They've got a new house.",
+          "They has got a new house.",
+          "They got a new house.",
+          "They have got a new house."
+        ]
+      },
+      "answer": "They've got a new house.",
+      "explanation": "Use 'They've got' as the contraction for 'they have got'."
+    },
+    {
+      "id": "q46",
+      "type": "fill_blank",
+      "question": "Complete: He _____ (not got) any pets.",
+      "content": {
+        "sentence": "He _____ any pets.",
+        "word": "not got"
+      },
+      "answer": "hasn't got",
+      "explanation": "Use 'hasn't got' for he/she/it in negatives."
+    },
+    {
+      "id": "q47",
+      "type": "multiple_choice",
+      "question": "Which is the correct question form for 'you'?",
+      "content": {
+        "choices": [
+          "Have you got a pen?",
+          "Has you got a pen?",
+          "You have got a pen?",
+          "You has got a pen?"
+        ]
+      },
+      "answer": "Have you got a pen?",
+      "explanation": "Use 'Have' for you in questions."
+    },
+    {
+      "id": "q48",
+      "type": "fill_blank",
+      "question": "Complete: I _____ (have got) a good idea.",
+      "content": {
+        "sentence": "I _____ a good idea.",
+        "word": "have got"
+      },
+      "answer": "have got",
+      "explanation": "Use 'have got' for I/you/we/they."
+    },
+    {
+      "id": "q49",
+      "type": "multiple_choice",
+      "question": "Which is the correct negative contracted form for 'it'?",
+      "content": {
+        "choices": [
+          "It hasn't got a name.",
+          "It haven't got a name.",
+          "It not got a name.",
+          "It doesn't got a name."
+        ]
+      },
+      "answer": "It hasn't got a name.",
+      "explanation": "Use 'hasn't got' for he/she/it in negatives."
+    },
+    {
+      "id": "q50",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'We / have / not / got / any / pets'",
+      "content": {
+        "words": ["We", "have", "not", "got", "any", "pets"]
+      },
+      "answer": ["We", "have", "not", "got", "any", "pets"],
+      "explanation": "The correct sentence is 'We have not got any pets.'"
+    }
+  ]
+}
