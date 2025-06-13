@@ -1,0 +1,644 @@
+{
+  "id": "topic4",
+  "title": "Present simple",
+  "description": "Practice using the present simple tense for habits, routines, general truths, negatives, questions, and short answers.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Which sentence is correct?",
+      "content": {
+        "choices": [
+          "She go to school every day.",
+          "She goes to school every day.",
+          "She going to school every day.",
+          "She gone to school every day."
+        ]
+      },
+      "answer": "She goes to school every day.",
+      "explanation": "For he/she/it, add -s to the verb in present simple."
+    },
+    {
+      "id": "q2",
+      "type": "fill_blank",
+      "question": "Complete: I _____ (like) ice cream.",
+      "content": {
+        "sentence": "I _____ ice cream.",
+        "word": "like"
+      },
+      "answer": "like",
+      "explanation": "Use the base form for 'I' in present simple."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question": "Which is the correct negative form?",
+      "content": {
+        "choices": [
+          "He don't like coffee.",
+          "He doesn't like coffee.",
+          "He not like coffee.",
+          "He isn't like coffee."
+        ]
+      },
+      "answer": "He doesn't like coffee.",
+      "explanation": "Use 'doesn't' + base verb for he/she/it in negatives."
+    },
+    {
+      "id": "q4",
+      "type": "fill_blank",
+      "question": "Complete: We _____ (not eat) meat.",
+      "content": {
+        "sentence": "We _____ meat.",
+        "word": "not eat"
+      },
+      "answer": "don't eat",
+      "explanation": "Use 'don't' + base verb for 'we' in negatives."
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "Which question is correct?",
+      "content": {
+        "choices": [
+          "Does she plays tennis?",
+          "Does she play tennis?",
+          "Do she play tennis?",
+          "Do she plays tennis?"
+        ]
+      },
+      "answer": "Does she play tennis?",
+      "explanation": "Use 'Does' + subject + base verb for he/she/it questions."
+    },
+    {
+      "id": "q6",
+      "type": "fill_blank",
+      "question": "Complete: My brother _____ (study) at university.",
+      "content": {
+        "sentence": "My brother _____ at university.",
+        "word": "study"
+      },
+      "answer": "studies",
+      "explanation": "For he/she/it, add -ies to verbs ending in consonant + y."
+    },
+    {
+      "id": "q7",
+      "type": "multiple_choice",
+      "question": "Which is the correct short answer?",
+      "content": {
+        "choices": [
+          "Yes, I do.",
+          "Yes, I am.",
+          "Yes, I does.",
+          "Yes, I have."
+        ]
+      },
+      "answer": "Yes, I do.",
+      "explanation": "Use 'do' for present simple short answers."
+    },
+    {
+      "id": "q8",
+      "type": "fill_blank",
+      "question": "Complete: She _____ (not have) a car.",
+      "content": {
+        "sentence": "She _____ a car.",
+        "word": "not have"
+      },
+      "answer": "doesn't have",
+      "explanation": "Use 'doesn't have' for he/she/it in negatives."
+    },
+    {
+      "id": "q9",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "They works at home.",
+          "They work at home.",
+          "They working at home.",
+          "They worked at home."
+        ]
+      },
+      "answer": "They work at home.",
+      "explanation": "Use base verb for 'they' in present simple."
+    },
+    {
+      "id": "q10",
+      "type": "fill_blank",
+      "question": "Complete: _____ you like cheese?",
+      "content": {
+        "sentence": "_____ you like cheese?",
+        "word": ""
+      },
+      "answer": "Do",
+      "explanation": "Use 'Do' for questions with 'you' in present simple."
+    },
+    {
+      "id": "q11",
+      "type": "multiple_choice",
+      "question": "Which is the correct negative form?",
+      "content": {
+        "choices": [
+          "She don't eat meat.",
+          "She doesn't eat meat.",
+          "She not eat meat.",
+          "She isn't eat meat."
+        ]
+      },
+      "answer": "She doesn't eat meat.",
+      "explanation": "Use 'doesn't' + base verb for he/she/it in negatives."
+    },
+    {
+      "id": "q12",
+      "type": "fill_blank",
+      "question": "Complete: What time _____ (does) he have lunch?",
+      "content": {
+        "sentence": "What time _____ he have lunch?",
+        "word": "does"
+      },
+      "answer": "does",
+      "explanation": "Use 'does' for he/she/it in present simple questions."
+    },
+    {
+      "id": "q13",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "We doesn't go to the gym.",
+          "We don't go to the gym.",
+          "We not go to the gym.",
+          "We isn't go to the gym."
+        ]
+      },
+      "answer": "We don't go to the gym.",
+      "explanation": "Use 'don't' + base verb for 'we' in negatives."
+    },
+    {
+      "id": "q14",
+      "type": "fill_blank",
+      "question": "Complete: He _____ (finish) work early on Fridays.",
+      "content": {
+        "sentence": "He _____ work early on Fridays.",
+        "word": "finish"
+      },
+      "answer": "finishes",
+      "explanation": "For he/she/it, add -es to verbs ending in -sh."
+    },
+    {
+      "id": "q15",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'She / does / yoga / on / Tuesdays'",
+      "content": {
+        "words": ["She", "does", "yoga", "on", "Tuesdays"]
+      },
+      "answer": ["She", "does", "yoga", "on", "Tuesdays"],
+      "explanation": "The correct sentence is 'She does yoga on Tuesdays.'"
+    },
+    {
+      "id": "q16",
+      "type": "multiple_choice",
+      "question": "Which is the correct question?",
+      "content": {
+        "choices": [
+          "Where do you work?",
+          "Where does you work?",
+          "Where you work?",
+          "Where do work you?"
+        ]
+      },
+      "answer": "Where do you work?",
+      "explanation": "Use 'Where do you work?' for present simple questions."
+    },
+    {
+      "id": "q17",
+      "type": "fill_blank",
+      "question": "Complete: My favourite TV show _____ (start) at 8 o'clock.",
+      "content": {
+        "sentence": "My favourite TV show _____ at 8 o'clock.",
+        "word": "start"
+      },
+      "answer": "starts",
+      "explanation": "For he/she/it, add -s to the verb."
+    },
+    {
+      "id": "q18",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "Does they speak English?",
+          "Do they speak English?",
+          "Do they speaks English?",
+          "Does they speaks English?"
+        ]
+      },
+      "answer": "Do they speak English?",
+      "explanation": "Use 'Do' + subject + base verb for 'they' in questions."
+    },
+    {
+      "id": "q19",
+      "type": "fill_blank",
+      "question": "Complete: She _____ (love) her job.",
+      "content": {
+        "sentence": "She _____ her job.",
+        "word": "love"
+      },
+      "answer": "loves",
+      "explanation": "For he/she/it, add -s to the verb."
+    },
+    {
+      "id": "q20",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'We / drink / coffee / at / work'",
+      "content": {
+        "words": ["We", "drink", "coffee", "at", "work"]
+      },
+      "answer": ["We", "drink", "coffee", "at", "work"],
+      "explanation": "The correct sentence is 'We drink coffee at work.'"
+    },
+    {
+      "id": "q21",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "He have a flat in the city centre.",
+          "He has a flat in the city centre.",
+          "He haves a flat in the city centre.",
+          "He having a flat in the city centre."
+        ]
+      },
+      "answer": "He has a flat in the city centre.",
+      "explanation": "Use 'has' for he/she/it in present simple."
+    },
+    {
+      "id": "q22",
+      "type": "fill_blank",
+      "question": "Complete: She _____ (do) yoga on Tuesdays.",
+      "content": {
+        "sentence": "She _____ yoga on Tuesdays.",
+        "word": "do"
+      },
+      "answer": "does",
+      "explanation": "Use 'does' for he/she/it in present simple."
+    },
+    {
+      "id": "q23",
+      "type": "multiple_choice",
+      "question": "Which is the correct negative form?",
+      "content": {
+        "choices": [
+          "They doesn't eat meat.",
+          "They don't eat meat.",
+          "They not eat meat.",
+          "They isn't eat meat."
+        ]
+      },
+      "answer": "They don't eat meat.",
+      "explanation": "Use 'don't' + base verb for 'they' in negatives."
+    },
+    {
+      "id": "q24",
+      "type": "fill_blank",
+      "question": "Complete: My dog _____ (go) for a walk every morning.",
+      "content": {
+        "sentence": "My dog _____ for a walk every morning.",
+        "word": "go"
+      },
+      "answer": "goes",
+      "explanation": "For he/she/it, add -es to verbs ending in -o."
+    },
+    {
+      "id": "q25",
+      "type": "multiple_choice",
+      "question": "Which question is correct?",
+      "content": {
+        "choices": [
+          "Do he speak English?",
+          "Does he speak English?",
+          "Does he speaks English?",
+          "Do he speaks English?"
+        ]
+      },
+      "answer": "Does he speak English?",
+      "explanation": "Use 'Does' + subject + base verb for he/she/it questions."
+    },
+    {
+      "id": "q26",
+      "type": "fill_blank",
+      "question": "Complete: We _____ (not watch) a lot of films.",
+      "content": {
+        "sentence": "We _____ a lot of films.",
+        "word": "not watch"
+      },
+      "answer": "don't watch",
+      "explanation": "Use 'don't' + base verb for 'we' in negatives."
+    },
+    {
+      "id": "q27",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "Does you like ice cream?",
+          "Do you like ice cream?",
+          "Do you likes ice cream?",
+          "Does you likes ice cream?"
+        ]
+      },
+      "answer": "Do you like ice cream?",
+      "explanation": "Use 'Do' + subject + base verb for 'you' in questions."
+    },
+    {
+      "id": "q28",
+      "type": "fill_blank",
+      "question": "Complete: He _____ (not have) a lot of free time.",
+      "content": {
+        "sentence": "He _____ a lot of free time.",
+        "word": "not have"
+      },
+      "answer": "doesn't have",
+      "explanation": "Use 'doesn't have' for he/she/it in negatives."
+    },
+    {
+      "id": "q29",
+      "type": "multiple_choice",
+      "question": "Which is the correct short answer?",
+      "content": {
+        "choices": [
+          "No, she doesn't.",
+          "No, she don't.",
+          "No, she isn't.",
+          "No, she hasn't."
+        ]
+      },
+      "answer": "No, she doesn't.",
+      "explanation": "Use 'doesn't' for he/she/it in negative short answers."
+    },
+    {
+      "id": "q30",
+      "type": "fill_blank",
+      "question": "Complete: A lot of people _____ (work) at home now.",
+      "content": {
+        "sentence": "A lot of people _____ at home now.",
+        "word": "work"
+      },
+      "answer": "work",
+      "explanation": "Use base verb for plural subjects."
+    },
+    {
+      "id": "q31",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "She finish work early.",
+          "She finishes work early.",
+          "She finishing work early.",
+          "She finished work early."
+        ]
+      },
+      "answer": "She finishes work early.",
+      "explanation": "For he/she/it, add -es to verbs ending in -sh."
+    },
+    {
+      "id": "q32",
+      "type": "fill_blank",
+      "question": "Complete: My brother _____ (not study) at university.",
+      "content": {
+        "sentence": "My brother _____ at university.",
+        "word": "not study"
+      },
+      "answer": "doesn't study",
+      "explanation": "Use 'doesn't' + base verb for he/she/it in negatives."
+    },
+    {
+      "id": "q33",
+      "type": "multiple_choice",
+      "question": "Which is the correct question?",
+      "content": {
+        "choices": [
+          "What time does he have lunch?",
+          "What time do he have lunch?",
+          "What time does he has lunch?",
+          "What time do he has lunch?"
+        ]
+      },
+      "answer": "What time does he have lunch?",
+      "explanation": "Use 'does' + subject + base verb for he/she/it questions."
+    },
+    {
+      "id": "q34",
+      "type": "fill_blank",
+      "question": "Complete: She _____ (not go) to the gym.",
+      "content": {
+        "sentence": "She _____ to the gym.",
+        "word": "not go"
+      },
+      "answer": "doesn't go",
+      "explanation": "Use 'doesn't go' for he/she/it in negatives."
+    },
+    {
+      "id": "q35",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'He / has / a / flat / in / the / city / centre'",
+      "content": {
+        "words": ["He", "has", "a", "flat", "in", "the", "city", "centre"]
+      },
+      "answer": ["He", "has", "a", "flat", "in", "the", "city", "centre"],
+      "explanation": "The correct sentence is 'He has a flat in the city centre.'"
+    },
+    {
+      "id": "q36",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "Does your sister like music?",
+          "Do your sister like music?",
+          "Does your sister likes music?",
+          "Do your sister likes music?"
+        ]
+      },
+      "answer": "Does your sister like music?",
+      "explanation": "Use 'Does' + subject + base verb for he/she/it questions."
+    },
+    {
+      "id": "q37",
+      "type": "fill_blank",
+      "question": "Complete: We _____ (not eat) breakfast at home.",
+      "content": {
+        "sentence": "We _____ breakfast at home.",
+        "word": "not eat"
+      },
+      "answer": "don't eat",
+      "explanation": "Use 'don't eat' for 'we' in negatives."
+    },
+    {
+      "id": "q38",
+      "type": "multiple_choice",
+      "question": "Which is the correct negative form?",
+      "content": {
+        "choices": [
+          "He don't go to work.",
+          "He doesn't go to work.",
+          "He not go to work.",
+          "He isn't go to work."
+        ]
+      },
+      "answer": "He doesn't go to work.",
+      "explanation": "Use 'doesn't' + base verb for he/she/it in negatives."
+    },
+    {
+      "id": "q39",
+      "type": "fill_blank",
+      "question": "Complete: Do you _____ (watch) a lot of films?",
+      "content": {
+        "sentence": "Do you _____ a lot of films?",
+        "word": "watch"
+      },
+      "answer": "watch",
+      "explanation": "Use base verb after 'do you' in questions."
+    },
+    {
+      "id": "q40",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'My / dog / goes / for / a / walk / every / morning'",
+      "content": {
+        "words": ["My", "dog", "goes", "for", "a", "walk", "every", "morning"]
+      },
+      "answer": ["My", "dog", "goes", "for", "a", "walk", "every", "morning"],
+      "explanation": "The correct sentence is 'My dog goes for a walk every morning.'"
+    },
+    {
+      "id": "q41",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "Does your parents live here?",
+          "Do your parents live here?",
+          "Does your parents lives here?",
+          "Do your parents lives here?"
+        ]
+      },
+      "answer": "Do your parents live here?",
+      "explanation": "Use 'do' for plural subjects in questions."
+    },
+    {
+      "id": "q42",
+      "type": "fill_blank",
+      "question": "Complete: She _____ (not like) chocolate.",
+      "content": {
+        "sentence": "She _____ chocolate.",
+        "word": "not like"
+      },
+      "answer": "doesn't like",
+      "explanation": "Use 'doesn't like' for he/she/it in negatives."
+    },
+    {
+      "id": "q43",
+      "type": "multiple_choice",
+      "question": "Which is the correct question?",
+      "content": {
+        "choices": [
+          "Do he go to school?",
+          "Does he go to school?",
+          "Does he goes to school?",
+          "Do he goes to school?"
+        ]
+      },
+      "answer": "Does he go to school?",
+      "explanation": "Use 'does' + subject + base verb for he/she/it questions."
+    },
+    {
+      "id": "q44",
+      "type": "fill_blank",
+      "question": "Complete: I _____ (not like) coffee.",
+      "content": {
+        "sentence": "I _____ coffee.",
+        "word": "not like"
+      },
+      "answer": "don't like",
+      "explanation": "Use 'don't like' for 'I' in negatives."
+    },
+    {
+      "id": "q45",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "Does it rain a lot here?",
+          "Do it rain a lot here?",
+          "Does it rains a lot here?",
+          "Do it rains a lot here?"
+        ]
+      },
+      "answer": "Does it rain a lot here?",
+      "explanation": "Use 'does' + subject + base verb for he/she/it questions."
+    },
+    {
+      "id": "q46",
+      "type": "fill_blank",
+      "question": "Complete: We _____ (go) to the gym three times a week.",
+      "content": {
+        "sentence": "We _____ to the gym three times a week.",
+        "word": "go"
+      },
+      "answer": "go",
+      "explanation": "Use base verb for 'we' in present simple."
+    },
+    {
+      "id": "q47",
+      "type": "multiple_choice",
+      "question": "Which is the correct negative form?",
+      "content": {
+        "choices": [
+          "It doesn't works.",
+          "It doesn't work.",
+          "It don't work.",
+          "It not work."
+        ]
+      },
+      "answer": "It doesn't work.",
+      "explanation": "Use 'doesn't' + base verb for he/she/it in negatives."
+    },
+    {
+      "id": "q48",
+      "type": "fill_blank",
+      "question": "Complete: Does she _____ (play) football on Saturdays?",
+      "content": {
+        "sentence": "Does she _____ football on Saturdays?",
+        "word": "play"
+      },
+      "answer": "play",
+      "explanation": "Use base verb after 'does she' in questions."
+    },
+    {
+      "id": "q49",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "He speaks English.",
+          "He speak English.",
+          "He speaking English.",
+          "He spoken English."
+        ]
+      },
+      "answer": "He speaks English.",
+      "explanation": "For he/she/it, add -s to the verb."
+    },
+    {
+      "id": "q50",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'Does / she / play / football / on / Saturdays'",
+      "content": {
+        "words": ["Does", "she", "play", "football", "on", "Saturdays"]
+      },
+      "answer": ["Does", "she", "play", "football", "on", "Saturdays"],
+      "explanation": "The correct sentence is 'Does she play football on Saturdays?'"
+    }
+  ]
+}
