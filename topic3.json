@@ -1,0 +1,595 @@
+{
+  "id": "topic3",
+  "title": "Nouns: countable and uncountable",
+  "description": "Practice identifying and using countable and uncountable nouns correctly in sentences.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Which noun is uncountable?",
+      "content": {
+        "choices": ["apple", "rice", "car", "book"]
+      },
+      "answer": "rice",
+      "explanation": "'Rice' is uncountable; you cannot say 'a rice' or 'rices'."
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "question": "Which sentence is correct?",
+      "content": {
+        "choices": [
+          "I have a bread.",
+          "I have some bread.",
+          "I have breads.",
+          "I have many bread."
+        ]
+      },
+      "answer": "I have some bread.",
+      "explanation": "'Bread' is uncountable, so use 'some bread'."
+    },
+    {
+      "id": "q3",
+      "type": "fill_blank",
+      "question": "Complete: There isn't _____ coffee in the cup.",
+      "content": {
+        "sentence": "There isn't _____ coffee in the cup.",
+        "word": ""
+      },
+      "answer": "any",
+      "explanation": "Use 'any' with uncountable nouns in negative sentences."
+    },
+    {
+      "id": "q4",
+      "type": "multiple_choice",
+      "question": "Which noun is countable?",
+      "content": {
+        "choices": ["water", "money", "apple", "advice"]
+      },
+      "answer": "apple",
+      "explanation": "'Apple' is countable: one apple, two apples, etc."
+    },
+    {
+      "id": "q5",
+      "type": "fill_blank",
+      "question": "Complete: I don't have _____ friends in this city.",
+      "content": {
+        "sentence": "I don't have _____ friends in this city.",
+        "word": ""
+      },
+      "answer": "many",
+      "explanation": "Use 'many' with countable nouns in negative sentences."
+    },
+    {
+      "id": "q6",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "There are much apples.",
+          "There is many apples.",
+          "There are a lot of apples.",
+          "There is a lot of apples."
+        ]
+      },
+      "answer": "There are a lot of apples.",
+      "explanation": "'A lot of' can be used with countable nouns in positive sentences."
+    },
+    {
+      "id": "q7",
+      "type": "fill_blank",
+      "question": "Complete: Is there _____ milk in the fridge?",
+      "content": {
+        "sentence": "Is there _____ milk in the fridge?",
+        "word": ""
+      },
+      "answer": "any",
+      "explanation": "Use 'any' with uncountable nouns in questions."
+    },
+    {
+      "id": "q8",
+      "type": "multiple_choice",
+      "question": "Which sentence is correct?",
+      "content": {
+        "choices": [
+          "I have a furniture.",
+          "I have some furniture.",
+          "I have furnitures.",
+          "I have many furniture."
+        ]
+      },
+      "answer": "I have some furniture.",
+      "explanation": "'Furniture' is uncountable; use 'some furniture'."
+    },
+    {
+      "id": "q9",
+      "type": "fill_blank",
+      "question": "Complete: How _____ water do you drink every day?",
+      "content": {
+        "sentence": "How _____ water do you drink every day?",
+        "word": ""
+      },
+      "answer": "much",
+      "explanation": "Use 'much' with uncountable nouns in questions."
+    },
+    {
+      "id": "q10",
+      "type": "multiple_choice",
+      "question": "Which noun is uncountable?",
+      "content": {
+        "choices": ["chair", "information", "pen", "dog"]
+      },
+      "answer": "information",
+      "explanation": "'Information' is uncountable."
+    },
+    {
+      "id": "q11",
+      "type": "fill_blank",
+      "question": "Complete: There are _____ people in the room.",
+      "content": {
+        "sentence": "There are _____ people in the room.",
+        "word": ""
+      },
+      "answer": "many",
+      "explanation": "Use 'many' with countable nouns in positive sentences."
+    },
+    {
+      "id": "q12",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "I need some advices.",
+          "I need some advice.",
+          "I need an advice.",
+          "I need advices."
+        ]
+      },
+      "answer": "I need some advice.",
+      "explanation": "'Advice' is uncountable; do not use 'advices'."
+    },
+    {
+      "id": "q13",
+      "type": "fill_blank",
+      "question": "Complete: There isn't _____ sugar left.",
+      "content": {
+        "sentence": "There isn't _____ sugar left.",
+        "word": ""
+      },
+      "answer": "much",
+      "explanation": "Use 'much' with uncountable nouns in negative sentences."
+    },
+    {
+      "id": "q14",
+      "type": "multiple_choice",
+      "question": "Which noun is countable?",
+      "content": {
+        "choices": ["luggage", "money", "table", "bread"]
+      },
+      "answer": "table",
+      "explanation": "'Table' is countable."
+    },
+    {
+      "id": "q15",
+      "type": "fill_blank",
+      "question": "Complete: Are there _____ chairs in the classroom?",
+      "content": {
+        "sentence": "Are there _____ chairs in the classroom?",
+        "word": ""
+      },
+      "answer": "any",
+      "explanation": "Use 'any' with countable nouns in questions."
+    },
+    {
+      "id": "q16",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "There is a lot of juice.",
+          "There are a lot of juice.",
+          "There is many juice.",
+          "There are much juice."
+        ]
+      },
+      "answer": "There is a lot of juice.",
+      "explanation": "'Juice' is uncountable; use 'is a lot of juice'."
+    },
+    {
+      "id": "q17",
+      "type": "fill_blank",
+      "question": "Complete: I don't have _____ money.",
+      "content": {
+        "sentence": "I don't have _____ money.",
+        "word": ""
+      },
+      "answer": "much",
+      "explanation": "Use 'much' with uncountable nouns in negative sentences."
+    },
+    {
+      "id": "q18",
+      "type": "multiple_choice",
+      "question": "Which noun is uncountable?",
+      "content": {
+        "choices": ["apple", "car", "rice", "pen"]
+      },
+      "answer": "rice",
+      "explanation": "'Rice' is uncountable."
+    },
+    {
+      "id": "q19",
+      "type": "fill_blank",
+      "question": "Complete: There aren't _____ potatoes in the basket.",
+      "content": {
+        "sentence": "There aren't _____ potatoes in the basket.",
+        "word": ""
+      },
+      "answer": "many",
+      "explanation": "Use 'many' with countable nouns in negative sentences."
+    },
+    {
+      "id": "q20",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'There / is / some / milk / in / the / fridge'",
+      "content": {
+        "words": ["There", "is", "some", "milk", "in", "the", "fridge"]
+      },
+      "answer": ["There", "is", "some", "milk", "in", "the", "fridge"],
+      "explanation": "The correct sentence is 'There is some milk in the fridge.'"
+    },
+    {
+      "id": "q21",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "There are a lot of snow on the road.",
+          "There is a lot of snow on the road.",
+          "There are many snow on the road.",
+          "There is many snow on the road."
+        ]
+      },
+      "answer": "There is a lot of snow on the road.",
+      "explanation": "'Snow' is uncountable; use 'is a lot of snow'."
+    },
+    {
+      "id": "q22",
+      "type": "fill_blank",
+      "question": "Complete: I have _____ friends in London.",
+      "content": {
+        "sentence": "I have _____ friends in London.",
+        "word": ""
+      },
+      "answer": "some",
+      "explanation": "Use 'some' with countable nouns in positive sentences."
+    },
+    {
+      "id": "q23",
+      "type": "multiple_choice",
+      "question": "Which noun is uncountable?",
+      "content": {
+        "choices": ["seat", "luggage", "student", "apple"]
+      },
+      "answer": "luggage",
+      "explanation": "'Luggage' is uncountable."
+    },
+    {
+      "id": "q24",
+      "type": "fill_blank",
+      "question": "Complete: There aren't _____ seats left.",
+      "content": {
+        "sentence": "There aren't _____ seats left.",
+        "word": ""
+      },
+      "answer": "any",
+      "explanation": "Use 'any' with countable nouns in negative sentences."
+    },
+    {
+      "id": "q25",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "Is there any sugar?",
+          "Is there any sugars?",
+          "Are there any sugar?",
+          "Are there any sugars?"
+        ]
+      },
+      "answer": "Is there any sugar?",
+      "explanation": "'Sugar' is uncountable; use 'is there any sugar?'."
+    },
+    {
+      "id": "q26",
+      "type": "fill_blank",
+      "question": "Complete: How _____ chairs are there?",
+      "content": {
+        "sentence": "How _____ chairs are there?",
+        "word": ""
+      },
+      "answer": "many",
+      "explanation": "Use 'many' with countable nouns in questions."
+    },
+    {
+      "id": "q27",
+      "type": "multiple_choice",
+      "question": "Which noun is countable?",
+      "content": {
+        "choices": ["bread", "money", "car", "rice"]
+      },
+      "answer": "car",
+      "explanation": "'Car' is countable."
+    },
+    {
+      "id": "q28",
+      "type": "fill_blank",
+      "question": "Complete: There is _____ water in the glass.",
+      "content": {
+        "sentence": "There is _____ water in the glass.",
+        "word": ""
+      },
+      "answer": "some",
+      "explanation": "Use 'some' with uncountable nouns in positive sentences."
+    },
+    {
+      "id": "q29",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "There are much apples.",
+          "There are many apples.",
+          "There is many apples.",
+          "There is much apples."
+        ]
+      },
+      "answer": "There are many apples.",
+      "explanation": "Use 'many' with countable nouns in positive sentences."
+    },
+    {
+      "id": "q30",
+      "type": "fill_blank",
+      "question": "Complete: I don't have _____ information about the event.",
+      "content": {
+        "sentence": "I don't have _____ information about the event.",
+        "word": ""
+      },
+      "answer": "any",
+      "explanation": "Use 'any' with uncountable nouns in negative sentences."
+    },
+    {
+      "id": "q31",
+      "type": "multiple_choice",
+      "question": "Which noun is uncountable?",
+      "content": {
+        "choices": ["table", "advice", "student", "chair"]
+      },
+      "answer": "advice",
+      "explanation": "'Advice' is uncountable."
+    },
+    {
+      "id": "q32",
+      "type": "fill_blank",
+      "question": "Complete: Can I have _____ more chairs, please?",
+      "content": {
+        "sentence": "Can I have _____ more chairs, please?",
+        "word": ""
+      },
+      "answer": "some",
+      "explanation": "Use 'some' when requesting countable nouns."
+    },
+    {
+      "id": "q33",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "There isn't much water.",
+          "There isn't many water.",
+          "There aren't much water.",
+          "There aren't many water."
+        ]
+      },
+      "answer": "There isn't much water.",
+      "explanation": "Use 'much' with uncountable nouns in negative sentences."
+    },
+    {
+      "id": "q34",
+      "type": "fill_blank",
+      "question": "Complete: Have you got _____ new glasses?",
+      "content": {
+        "sentence": "Have you got _____ new glasses?",
+        "word": ""
+      },
+      "answer": "some",
+      "explanation": "Use 'some' in questions when expecting a 'yes' answer."
+    },
+    {
+      "id": "q35",
+      "type": "multiple_choice",
+      "question": "Which noun is countable?",
+      "content": {
+        "choices": ["coffee", "money", "apple", "bread"]
+      },
+      "answer": "apple",
+      "explanation": "'Apple' is countable."
+    },
+    {
+      "id": "q36",
+      "type": "fill_blank",
+      "question": "Complete: There are _____ apples on the trees.",
+      "content": {
+        "sentence": "There are _____ apples on the trees.",
+        "word": ""
+      },
+      "answer": "lots of",
+      "explanation": "Use 'lots of' with countable nouns in positive sentences."
+    },
+    {
+      "id": "q37",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "There is a lot of snow.",
+          "There are a lot of snow.",
+          "There is many snow.",
+          "There are many snow."
+        ]
+      },
+      "answer": "There is a lot of snow.",
+      "explanation": "'Snow' is uncountable."
+    },
+    {
+      "id": "q38",
+      "type": "fill_blank",
+      "question": "Complete: There aren't _____ potatoes.",
+      "content": {
+        "sentence": "There aren't _____ potatoes.",
+        "word": ""
+      },
+      "answer": "many",
+      "explanation": "Use 'many' with countable nouns in negative sentences."
+    },
+    {
+      "id": "q39",
+      "type": "multiple_choice",
+      "question": "Which noun is uncountable?",
+      "content": {
+        "choices": ["car", "rice", "pen", "book"]
+      },
+      "answer": "rice",
+      "explanation": "'Rice' is uncountable."
+    },
+    {
+      "id": "q40",
+      "type": "fill_blank",
+      "question": "Complete: There is _____ milk in the fridge.",
+      "content": {
+        "sentence": "There is _____ milk in the fridge.",
+        "word": ""
+      },
+      "answer": "some",
+      "explanation": "Use 'some' with uncountable nouns in positive sentences."
+    },
+    {
+      "id": "q41",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "How much orange juice is there?",
+          "How many orange juice is there?",
+          "How much orange juices are there?",
+          "How many orange juices are there?"
+        ]
+      },
+      "answer": "How much orange juice is there?",
+      "explanation": "Use 'much' with uncountable nouns in questions."
+    },
+    {
+      "id": "q42",
+      "type": "fill_blank",
+      "question": "Complete: Do you want _____ chocolate?",
+      "content": {
+        "sentence": "Do you want _____ chocolate?",
+        "word": ""
+      },
+      "answer": "some",
+      "explanation": "Use 'some' when offering something."
+    },
+    {
+      "id": "q43",
+      "type": "multiple_choice",
+      "question": "Which noun is countable?",
+      "content": {
+        "choices": ["bread", "money", "chair", "rice"]
+      },
+      "answer": "chair",
+      "explanation": "'Chair' is countable."
+    },
+    {
+      "id": "q44",
+      "type": "fill_blank",
+      "question": "Complete: There isn't _____ coffee.",
+      "content": {
+        "sentence": "There isn't _____ coffee.",
+        "word": ""
+      },
+      "answer": "any",
+      "explanation": "Use 'any' with uncountable nouns in negative sentences."
+    },
+    {
+      "id": "q45",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "Are there any chairs?",
+          "Is there any chairs?",
+          "Are there any chair?",
+          "Is there any chair?"
+        ]
+      },
+      "answer": "Are there any chairs?",
+      "explanation": "Use 'are' with plural countable nouns."
+    },
+    {
+      "id": "q46",
+      "type": "fill_blank",
+      "question": "Complete: There is _____ bread on the table.",
+      "content": {
+        "sentence": "There is _____ bread on the table.",
+        "word": ""
+      },
+      "answer": "some",
+      "explanation": "Use 'some' with uncountable nouns in positive sentences."
+    },
+    {
+      "id": "q47",
+      "type": "multiple_choice",
+      "question": "Which noun is uncountable?",
+      "content": {
+        "choices": ["dog", "money", "apple", "car"]
+      },
+      "answer": "money",
+      "explanation": "'Money' is uncountable."
+    },
+    {
+      "id": "q48",
+      "type": "fill_blank",
+      "question": "Complete: There isn't _____ juice left.",
+      "content": {
+        "sentence": "There isn't _____ juice left.",
+        "word": ""
+      },
+      "answer": "much",
+      "explanation": "Use 'much' with uncountable nouns in negative sentences."
+    },
+    {
+      "id": "q49",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "How many chairs are there?",
+          "How much chairs are there?",
+          "How many chair is there?",
+          "How much chair is there?"
+        ]
+      },
+      "answer": "How many chairs are there?",
+      "explanation": "Use 'many' with countable nouns in questions."
+    },
+    {
+      "id": "q50",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'There / isn't / much / water / in / the / bottle'",
+      "content": {
+        "words": ["There", "isn't", "much", "water", "in", "the", "bottle"]
+      },
+      "answer": ["There", "isn't", "much", "water", "in", "the", "bottle"],
+      "explanation": "The correct sentence is 'There isn't much water in the bottle.'"
+    }
+  ]
+}
