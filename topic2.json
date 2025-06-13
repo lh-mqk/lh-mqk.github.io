@@ -1,0 +1,1266 @@
+{
+  "id": "topic2",
+  "title": "Infinitive of purpose",
+  "description": "Practice using the to-infinitive to express purpose (answering 'why?').",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Which sentence correctly uses the infinitive of purpose?",
+      "content": {
+        "choices": [
+          "She went to the library to study.",
+          "She went to the library for study.",
+          "She went to the library studying.",
+          "She went to the library for to study."
+        ]
+      },
+      "answer": "She went to the library to study.",
+      "explanation": "We use 'to' + base verb (infinitive) to express purpose: 'to study'."
+    },
+    {
+      "id": "q2",
+      "type": "fill_blank",
+      "question": "Complete: I called my friend _____ (invite) her to my party.",
+      "content": {
+        "sentence": "I called my friend _____ her to my party.",
+        "word": "invite"
+      },
+      "answer": "to invite",
+      "explanation": "Use 'to' + base verb: 'to invite'."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "He works hard to earn money.",
+          "He works hard for earn money.",
+          "He works hard earning money.",
+          "He works hard for to earn money."
+        ]
+      },
+      "answer": "He works hard to earn money.",
+      "explanation": "The correct structure is 'to' + verb for purpose."
+    },
+    {
+      "id": "q4",
+      "type": "fill_blank",
+      "question": "Complete: She studies English _____ (get) a better job.",
+      "content": {
+        "sentence": "She studies English _____ a better job.",
+        "word": "get"
+      },
+      "answer": "to get",
+      "explanation": "Use 'to' + base verb: 'to get'."
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "Choose the correct answer: Why do you go to the gym?",
+      "content": {
+        "choices": [
+          "To keep fit.",
+          "For keep fit.",
+          "Keeping fit.",
+          "For to keep fit."
+        ]
+      },
+      "answer": "To keep fit.",
+      "explanation": "We use 'to' + verb to answer 'why?' questions about purpose."
+    },
+    {
+      "id": "q6",
+      "type": "fill_blank",
+      "question": "Complete: I use my phone _____ (check) emails.",
+      "content": {
+        "sentence": "I use my phone _____ emails.",
+        "word": "check"
+      },
+      "answer": "to check",
+      "explanation": "Use 'to' + base verb: 'to check'."
+    },
+    {
+      "id": "q7",
+      "type": "multiple_choice",
+      "question": "Which answer is correct for: Why did you buy a new laptop?",
+      "content": {
+        "choices": [
+          "To work from home.",
+          "For work from home.",
+          "Working from home.",
+          "For to work from home."
+        ]
+      },
+      "answer": "To work from home.",
+      "explanation": "The infinitive of purpose is 'to' + verb: 'to work from home'."
+    },
+    {
+      "id": "q8",
+      "type": "fill_blank",
+      "question": "Complete: We went to the park _____ (have) a picnic.",
+      "content": {
+        "sentence": "We went to the park _____ a picnic.",
+        "word": "have"
+      },
+      "answer": "to have",
+      "explanation": "Use 'to' + base verb: 'to have'."
+    },
+    {
+      "id": "q9",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "She left early to catch the bus.",
+          "She left early for catch the bus.",
+          "She left early catching the bus.",
+          "She left early for to catch the bus."
+        ]
+      },
+      "answer": "She left early to catch the bus.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q10",
+      "type": "fill_blank",
+      "question": "Complete: He went to the shop _____ (buy) some milk.",
+      "content": {
+        "sentence": "He went to the shop _____ some milk.",
+        "word": "buy"
+      },
+      "answer": "to buy",
+      "explanation": "Use 'to' + base verb: 'to buy'."
+    },
+    {
+      "id": "q11",
+      "type": "multiple_choice",
+      "question": "Which sentence uses the infinitive of purpose?",
+      "content": {
+        "choices": [
+          "I went to the bank to open an account.",
+          "I went to the bank opening an account.",
+          "I went to the bank for open an account.",
+          "I went to the bank for to open an account."
+        ]
+      },
+      "answer": "I went to the bank to open an account.",
+      "explanation": "The correct structure is 'to' + verb for purpose."
+    },
+    {
+      "id": "q12",
+      "type": "fill_blank",
+      "question": "Complete: She is learning Spanish _____ (travel) in Spain.",
+      "content": {
+        "sentence": "She is learning Spanish _____ in Spain.",
+        "word": "travel"
+      },
+      "answer": "to travel",
+      "explanation": "Use 'to' + base verb: 'to travel'."
+    },
+    {
+      "id": "q13",
+      "type": "multiple_choice",
+      "question": "Choose the correct answer: Why do you read books?",
+      "content": {
+        "choices": [
+          "To learn new things.",
+          "For learn new things.",
+          "Learning new things.",
+          "For to learn new things."
+        ]
+      },
+      "answer": "To learn new things.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q14",
+      "type": "fill_blank",
+      "question": "Complete: I went to the market _____ (buy) vegetables.",
+      "content": {
+        "sentence": "I went to the market _____ vegetables.",
+        "word": "buy"
+      },
+      "answer": "to buy",
+      "explanation": "Use 'to' + base verb: 'to buy'."
+    },
+    {
+      "id": "q15",
+      "type": "sentence_order",
+      "question": "Arrange the words to make a correct answer: 'to / English / learn'",
+      "content": {
+        "words": ["to", "learn", "English"]
+      },
+      "answer": ["to", "learn", "English"],
+      "explanation": "The correct order is 'to learn English'."
+    },
+    {
+      "id": "q16",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "He goes to the gym to exercise.",
+          "He goes to the gym for exercise.",
+          "He goes to the gym exercising.",
+          "He goes to the gym for to exercise."
+        ]
+      },
+      "answer": "He goes to the gym to exercise.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q17",
+      "type": "fill_blank",
+      "question": "Complete: She went to the store _____ (buy) a dress.",
+      "content": {
+        "sentence": "She went to the store _____ a dress.",
+        "word": "buy"
+      },
+      "answer": "to buy",
+      "explanation": "Use 'to' + base verb: 'to buy'."
+    },
+    {
+      "id": "q18",
+      "type": "multiple_choice",
+      "question": "Which answer is correct for: Why do you use a dictionary?",
+      "content": {
+        "choices": [
+          "To find word meanings.",
+          "For find word meanings.",
+          "Finding word meanings.",
+          "For to find word meanings."
+        ]
+      },
+      "answer": "To find word meanings.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q19",
+      "type": "fill_blank",
+      "question": "Complete: He went to the post office _____ (send) a letter.",
+      "content": {
+        "sentence": "He went to the post office _____ a letter.",
+        "word": "send"
+      },
+      "answer": "to send",
+      "explanation": "Use 'to' + base verb: 'to send'."
+    },
+    {
+      "id": "q20",
+      "type": "sentence_order",
+      "question": "Arrange the words to make a correct answer: 'to / see / the doctor'",
+      "content": {
+        "words": ["to", "see", "the", "doctor"]
+      },
+      "answer": ["to", "see", "the", "doctor"],
+      "explanation": "The correct order is 'to see the doctor'."
+    },
+    {
+      "id": "q21",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "He went to the shop to buy bread.",
+          "He went to the shop for buy bread.",
+          "He went to the shop buying bread.",
+          "He went to the shop for to buy bread."
+        ]
+      },
+      "answer": "He went to the shop to buy bread.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q22",
+      "type": "fill_blank",
+      "question": "Complete: She called me _____ (ask) for help.",
+      "content": {
+        "sentence": "She called me _____ for help.",
+        "word": "ask"
+      },
+      "answer": "to ask",
+      "explanation": "Use 'to' + base verb: 'to ask'."
+    },
+    {
+      "id": "q23",
+      "type": "multiple_choice",
+      "question": "Choose the correct answer: Why do you use a computer?",
+      "content": {
+        "choices": [
+          "To do my homework.",
+          "For do my homework.",
+          "Doing my homework.",
+          "For to do my homework."
+        ]
+      },
+      "answer": "To do my homework.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q24",
+      "type": "fill_blank",
+      "question": "Complete: I went to the station _____ (meet) my friend.",
+      "content": {
+        "sentence": "I went to the station _____ my friend.",
+        "word": "meet"
+      },
+      "answer": "to meet",
+      "explanation": "Use 'to' + base verb: 'to meet'."
+    },
+    {
+      "id": "q25",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'to / see / a movie'",
+      "content": {
+        "words": ["to", "see", "a", "movie"]
+      },
+      "answer": ["to", "see", "a", "movie"],
+      "explanation": "The correct order is 'to see a movie'."
+    },
+    {
+      "id": "q26",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "He went to the gym to swim.",
+          "He went to the gym for swim.",
+          "He went to the gym swimming.",
+          "He went to the gym for to swim."
+        ]
+      },
+      "answer": "He went to the gym to swim.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q27",
+      "type": "fill_blank",
+      "question": "Complete: She visited the museum _____ (learn) about history.",
+      "content": {
+        "sentence": "She visited the museum _____ about history.",
+        "word": "learn"
+      },
+      "answer": "to learn",
+      "explanation": "Use 'to' + base verb: 'to learn'."
+    },
+    {
+      "id": "q28",
+      "type": "multiple_choice",
+      "question": "Which answer is correct for: Why do you wake up early?",
+      "content": {
+        "choices": [
+          "To go to work.",
+          "For go to work.",
+          "Going to work.",
+          "For to go to work."
+        ]
+      },
+      "answer": "To go to work.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q29",
+      "type": "fill_blank",
+      "question": "Complete: He went to the kitchen _____ (make) coffee.",
+      "content": {
+        "sentence": "He went to the kitchen _____ coffee.",
+        "word": "make"
+      },
+      "answer": "to make",
+      "explanation": "Use 'to' + base verb: 'to make'."
+    },
+    {
+      "id": "q30",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'to / buy / some / fruit'",
+      "content": {
+        "words": ["to", "buy", "some", "fruit"]
+      },
+      "answer": ["to", "buy", "some", "fruit"],
+      "explanation": "The correct order is 'to buy some fruit'."
+    },
+    {
+      "id": "q31",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "She went to the shop to get some bread.",
+          "She went to the shop for get some bread.",
+          "She went to the shop getting some bread.",
+          "She went to the shop for to get some bread."
+        ]
+      },
+      "answer": "She went to the shop to get some bread.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q32",
+      "type": "fill_blank",
+      "question": "Complete: I went to the park _____ (run).",
+      "content": {
+        "sentence": "I went to the park _____ .",
+        "word": "run"
+      },
+      "answer": "to run",
+      "explanation": "Use 'to' + base verb: 'to run'."
+    },
+    {
+      "id": "q33",
+      "type": "multiple_choice",
+      "question": "Choose the correct answer: Why do you study English?",
+      "content": {
+        "choices": [
+          "To travel abroad.",
+          "For travel abroad.",
+          "Travelling abroad.",
+          "For to travel abroad."
+        ]
+      },
+      "answer": "To travel abroad.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q34",
+      "type": "fill_blank",
+      "question": "Complete: She went to the market _____ (buy) fruit.",
+      "content": {
+        "sentence": "She went to the market _____ fruit.",
+        "word": "buy"
+      },
+      "answer": "to buy",
+      "explanation": "Use 'to' + base verb: 'to buy'."
+    },
+    {
+      "id": "q35",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'to / improve / my / English'",
+      "content": {
+        "words": ["to", "improve", "my", "English"]
+      },
+      "answer": ["to", "improve", "my", "English"],
+      "explanation": "The correct order is 'to improve my English'."
+    },
+    {
+      "id": "q36",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "He went to the post office to send a parcel.",
+          "He went to the post office for send a parcel.",
+          "He went to the post office sending a parcel.",
+          "He went to the post office for to send a parcel."
+        ]
+      },
+      "answer": "He went to the post office to send a parcel.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q37",
+      "type": "fill_blank",
+      "question": "Complete: She went to the library _____ (study).",
+      "content": {
+        "sentence": "She went to the library _____ .",
+        "word": "study"
+      },
+      "answer": "to study",
+      "explanation": "Use 'to' + base verb: 'to study'."
+    },
+    {
+      "id": "q38",
+      "type": "multiple_choice",
+      "question": "Which answer is correct for: Why do you take notes?",
+      "content": {
+        "choices": [
+          "To remember information.",
+          "For remember information.",
+          "Remembering information.",
+          "For to remember information."
+        ]
+      },
+      "answer": "To remember information.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q39",
+      "type": "fill_blank",
+      "question": "Complete: He went to the doctor _____ (get) medicine.",
+      "content": {
+        "sentence": "He went to the doctor _____ medicine.",
+        "word": "get"
+      },
+      "answer": "to get",
+      "explanation": "Use 'to' + base verb: 'to get'."
+    },
+    {
+      "id": "q40",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'to / ask / a / question'",
+      "content": {
+        "words": ["to", "ask", "a", "question"]
+      },
+      "answer": ["to", "ask", "a", "question"],
+      "explanation": "The correct order is 'to ask a question'."
+    },
+    {
+      "id": "q41",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "She went to the shop to buy some milk.",
+          "She went to the shop for buy some milk.",
+          "She went to the shop buying some milk.",
+          "She went to the shop for to buy some milk."
+        ]
+      },
+      "answer": "She went to the shop to buy some milk.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q42",
+      "type": "fill_blank",
+      "question": "Complete: I went to the cinema _____ (watch) a film.",
+      "content": {
+        "sentence": "I went to the cinema _____ a film.",
+        "word": "watch"
+      },
+      "answer": "to watch",
+      "explanation": "Use 'to' + base verb: 'to watch'."
+    },
+    {
+      "id": "q43",
+      "type": "multiple_choice",
+      "question": "Choose the correct answer: Why do you go to the library?",
+      "content": {
+        "choices": [
+          "To borrow books.",
+          "For borrow books.",
+          "Borrowing books.",
+          "For to borrow books."
+        ]
+      },
+      "answer": "To borrow books.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q44",
+      "type": "fill_blank",
+      "question": "Complete: She went to the bakery _____ (buy) bread.",
+      "content": {
+        "sentence": "She went to the bakery _____ bread.",
+        "word": "buy"
+      },
+      "answer": "to buy",
+      "explanation": "Use 'to' + base verb: 'to buy'."
+    },
+    {
+      "id": "q45",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'to / get / some / information'",
+      "content": {
+        "words": ["to", "get", "some", "information"]
+      },
+      "answer": ["to", "get", "some", "information"],
+      "explanation": "The correct order is 'to get some information'."
+    },
+    {
+      "id": "q46",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "He went to the airport to catch a flight.",
+          "He went to the airport for catch a flight.",
+          "He went to the airport catching a flight.",
+          "He went to the airport for to catch a flight."
+        ]
+      },
+      "answer": "He went to the airport to catch a flight.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q47",
+      "type": "fill_blank",
+      "question": "Complete: She went to the shop _____ (buy) vegetables.",
+      "content": {
+        "sentence": "She went to the shop _____ vegetables.",
+        "word": "buy"
+      },
+      "answer": "to buy",
+      "explanation": "Use 'to' + base verb: 'to buy'."
+    },
+    {
+      "id": "q48",
+      "type": "multiple_choice",
+      "question": "Which answer is correct for: Why do you go to school?",
+      "content": {
+        "choices": [
+          "To learn.",
+          "For learn.",
+          "Learning.",
+          "For to learn."
+        ]
+      },
+      "answer": "To learn.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q49",
+      "type": "fill_blank",
+      "question": "Complete: He went to the store _____ (buy) a newspaper.",
+      "content": {
+        "sentence": "He went to the store _____ a newspaper.",
+        "word": "buy"
+      },
+      "answer": "to buy",
+      "explanation": "Use 'to' + base verb: 'to buy'."
+    },
+    {
+      "id": "q50",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'to / practice / my / English'",
+      "content": {
+        "words": ["to", "practice", "my", "English"]
+      },
+      "answer": ["to", "practice", "my", "English"],
+      "explanation": "The correct order is 'to practice my English'."
+    }
+  ]
+}
+{
+  "id": "topic2",
+  "title": "Infinitive of purpose",
+  "description": "Practice using the to-infinitive to express purpose (answering 'why?').",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Which sentence correctly uses the infinitive of purpose?",
+      "content": {
+        "choices": [
+          "She went to the library to study.",
+          "She went to the library for study.",
+          "She went to the library studying.",
+          "She went to the library for to study."
+        ]
+      },
+      "answer": "She went to the library to study.",
+      "explanation": "We use 'to' + base verb (infinitive) to express purpose: 'to study'."
+    },
+    {
+      "id": "q2",
+      "type": "fill_blank",
+      "question": "Complete: I called my friend _____ (invite) her to my party.",
+      "content": {
+        "sentence": "I called my friend _____ her to my party.",
+        "word": "invite"
+      },
+      "answer": "to invite",
+      "explanation": "Use 'to' + base verb: 'to invite'."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "He works hard to earn money.",
+          "He works hard for earn money.",
+          "He works hard earning money.",
+          "He works hard for to earn money."
+        ]
+      },
+      "answer": "He works hard to earn money.",
+      "explanation": "The correct structure is 'to' + verb for purpose."
+    },
+    {
+      "id": "q4",
+      "type": "fill_blank",
+      "question": "Complete: She studies English _____ (get) a better job.",
+      "content": {
+        "sentence": "She studies English _____ a better job.",
+        "word": "get"
+      },
+      "answer": "to get",
+      "explanation": "Use 'to' + base verb: 'to get'."
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "Choose the correct answer: Why do you go to the gym?",
+      "content": {
+        "choices": [
+          "To keep fit.",
+          "For keep fit.",
+          "Keeping fit.",
+          "For to keep fit."
+        ]
+      },
+      "answer": "To keep fit.",
+      "explanation": "We use 'to' + verb to answer 'why?' questions about purpose."
+    },
+    {
+      "id": "q6",
+      "type": "fill_blank",
+      "question": "Complete: I use my phone _____ (check) emails.",
+      "content": {
+        "sentence": "I use my phone _____ emails.",
+        "word": "check"
+      },
+      "answer": "to check",
+      "explanation": "Use 'to' + base verb: 'to check'."
+    },
+    {
+      "id": "q7",
+      "type": "multiple_choice",
+      "question": "Which answer is correct for: Why did you buy a new laptop?",
+      "content": {
+        "choices": [
+          "To work from home.",
+          "For work from home.",
+          "Working from home.",
+          "For to work from home."
+        ]
+      },
+      "answer": "To work from home.",
+      "explanation": "The infinitive of purpose is 'to' + verb: 'to work from home'."
+    },
+    {
+      "id": "q8",
+      "type": "fill_blank",
+      "question": "Complete: We went to the park _____ (have) a picnic.",
+      "content": {
+        "sentence": "We went to the park _____ a picnic.",
+        "word": "have"
+      },
+      "answer": "to have",
+      "explanation": "Use 'to' + base verb: 'to have'."
+    },
+    {
+      "id": "q9",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "She left early to catch the bus.",
+          "She left early for catch the bus.",
+          "She left early catching the bus.",
+          "She left early for to catch the bus."
+        ]
+      },
+      "answer": "She left early to catch the bus.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q10",
+      "type": "fill_blank",
+      "question": "Complete: He went to the shop _____ (buy) some milk.",
+      "content": {
+        "sentence": "He went to the shop _____ some milk.",
+        "word": "buy"
+      },
+      "answer": "to buy",
+      "explanation": "Use 'to' + base verb: 'to buy'."
+    },
+    {
+      "id": "q11",
+      "type": "multiple_choice",
+      "question": "Which sentence uses the infinitive of purpose?",
+      "content": {
+        "choices": [
+          "I went to the bank to open an account.",
+          "I went to the bank opening an account.",
+          "I went to the bank for open an account.",
+          "I went to the bank for to open an account."
+        ]
+      },
+      "answer": "I went to the bank to open an account.",
+      "explanation": "The correct structure is 'to' + verb for purpose."
+    },
+    {
+      "id": "q12",
+      "type": "fill_blank",
+      "question": "Complete: She is learning Spanish _____ (travel) in Spain.",
+      "content": {
+        "sentence": "She is learning Spanish _____ in Spain.",
+        "word": "travel"
+      },
+      "answer": "to travel",
+      "explanation": "Use 'to' + base verb: 'to travel'."
+    },
+    {
+      "id": "q13",
+      "type": "multiple_choice",
+      "question": "Choose the correct answer: Why do you read books?",
+      "content": {
+        "choices": [
+          "To learn new things.",
+          "For learn new things.",
+          "Learning new things.",
+          "For to learn new things."
+        ]
+      },
+      "answer": "To learn new things.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q14",
+      "type": "fill_blank",
+      "question": "Complete: I went to the market _____ (buy) vegetables.",
+      "content": {
+        "sentence": "I went to the market _____ vegetables.",
+        "word": "buy"
+      },
+      "answer": "to buy",
+      "explanation": "Use 'to' + base verb: 'to buy'."
+    },
+    {
+      "id": "q15",
+      "type": "sentence_order",
+      "question": "Arrange the words to make a correct answer: 'to / English / learn'",
+      "content": {
+        "words": ["to", "learn", "English"]
+      },
+      "answer": ["to", "learn", "English"],
+      "explanation": "The correct order is 'to learn English'."
+    },
+    {
+      "id": "q16",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "He goes to the gym to exercise.",
+          "He goes to the gym for exercise.",
+          "He goes to the gym exercising.",
+          "He goes to the gym for to exercise."
+        ]
+      },
+      "answer": "He goes to the gym to exercise.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q17",
+      "type": "fill_blank",
+      "question": "Complete: She went to the store _____ (buy) a dress.",
+      "content": {
+        "sentence": "She went to the store _____ a dress.",
+        "word": "buy"
+      },
+      "answer": "to buy",
+      "explanation": "Use 'to' + base verb: 'to buy'."
+    },
+    {
+      "id": "q18",
+      "type": "multiple_choice",
+      "question": "Which answer is correct for: Why do you use a dictionary?",
+      "content": {
+        "choices": [
+          "To find word meanings.",
+          "For find word meanings.",
+          "Finding word meanings.",
+          "For to find word meanings."
+        ]
+      },
+      "answer": "To find word meanings.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q19",
+      "type": "fill_blank",
+      "question": "Complete: He went to the post office _____ (send) a letter.",
+      "content": {
+        "sentence": "He went to the post office _____ a letter.",
+        "word": "send"
+      },
+      "answer": "to send",
+      "explanation": "Use 'to' + base verb: 'to send'."
+    },
+    {
+      "id": "q20",
+      "type": "sentence_order",
+      "question": "Arrange the words to make a correct answer: 'to / see / the doctor'",
+      "content": {
+        "words": ["to", "see", "the", "doctor"]
+      },
+      "answer": ["to", "see", "the", "doctor"],
+      "explanation": "The correct order is 'to see the doctor'."
+    },
+    {
+      "id": "q21",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "He went to the shop to buy bread.",
+          "He went to the shop for buy bread.",
+          "He went to the shop buying bread.",
+          "He went to the shop for to buy bread."
+        ]
+      },
+      "answer": "He went to the shop to buy bread.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q22",
+      "type": "fill_blank",
+      "question": "Complete: She called me _____ (ask) for help.",
+      "content": {
+        "sentence": "She called me _____ for help.",
+        "word": "ask"
+      },
+      "answer": "to ask",
+      "explanation": "Use 'to' + base verb: 'to ask'."
+    },
+    {
+      "id": "q23",
+      "type": "multiple_choice",
+      "question": "Choose the correct answer: Why do you use a computer?",
+      "content": {
+        "choices": [
+          "To do my homework.",
+          "For do my homework.",
+          "Doing my homework.",
+          "For to do my homework."
+        ]
+      },
+      "answer": "To do my homework.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q24",
+      "type": "fill_blank",
+      "question": "Complete: I went to the station _____ (meet) my friend.",
+      "content": {
+        "sentence": "I went to the station _____ my friend.",
+        "word": "meet"
+      },
+      "answer": "to meet",
+      "explanation": "Use 'to' + base verb: 'to meet'."
+    },
+    {
+      "id": "q25",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'to / see / a movie'",
+      "content": {
+        "words": ["to", "see", "a", "movie"]
+      },
+      "answer": ["to", "see", "a", "movie"],
+      "explanation": "The correct order is 'to see a movie'."
+    },
+    {
+      "id": "q26",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "He went to the gym to swim.",
+          "He went to the gym for swim.",
+          "He went to the gym swimming.",
+          "He went to the gym for to swim."
+        ]
+      },
+      "answer": "He went to the gym to swim.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q27",
+      "type": "fill_blank",
+      "question": "Complete: She visited the museum _____ (learn) about history.",
+      "content": {
+        "sentence": "She visited the museum _____ about history.",
+        "word": "learn"
+      },
+      "answer": "to learn",
+      "explanation": "Use 'to' + base verb: 'to learn'."
+    },
+    {
+      "id": "q28",
+      "type": "multiple_choice",
+      "question": "Which answer is correct for: Why do you wake up early?",
+      "content": {
+        "choices": [
+          "To go to work.",
+          "For go to work.",
+          "Going to work.",
+          "For to go to work."
+        ]
+      },
+      "answer": "To go to work.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q29",
+      "type": "fill_blank",
+      "question": "Complete: He went to the kitchen _____ (make) coffee.",
+      "content": {
+        "sentence": "He went to the kitchen _____ coffee.",
+        "word": "make"
+      },
+      "answer": "to make",
+      "explanation": "Use 'to' + base verb: 'to make'."
+    },
+    {
+      "id": "q30",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'to / buy / some / fruit'",
+      "content": {
+        "words": ["to", "buy", "some", "fruit"]
+      },
+      "answer": ["to", "buy", "some", "fruit"],
+      "explanation": "The correct order is 'to buy some fruit'."
+    },
+    {
+      "id": "q31",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "She went to the shop to get some bread.",
+          "She went to the shop for get some bread.",
+          "She went to the shop getting some bread.",
+          "She went to the shop for to get some bread."
+        ]
+      },
+      "answer": "She went to the shop to get some bread.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q32",
+      "type": "fill_blank",
+      "question": "Complete: I went to the park _____ (run).",
+      "content": {
+        "sentence": "I went to the park _____ .",
+        "word": "run"
+      },
+      "answer": "to run",
+      "explanation": "Use 'to' + base verb: 'to run'."
+    },
+    {
+      "id": "q33",
+      "type": "multiple_choice",
+      "question": "Choose the correct answer: Why do you study English?",
+      "content": {
+        "choices": [
+          "To travel abroad.",
+          "For travel abroad.",
+          "Travelling abroad.",
+          "For to travel abroad."
+        ]
+      },
+      "answer": "To travel abroad.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q34",
+      "type": "fill_blank",
+      "question": "Complete: She went to the market _____ (buy) fruit.",
+      "content": {
+        "sentence": "She went to the market _____ fruit.",
+        "word": "buy"
+      },
+      "answer": "to buy",
+      "explanation": "Use 'to' + base verb: 'to buy'."
+    },
+    {
+      "id": "q35",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'to / improve / my / English'",
+      "content": {
+        "words": ["to", "improve", "my", "English"]
+      },
+      "answer": ["to", "improve", "my", "English"],
+      "explanation": "The correct order is 'to improve my English'."
+    },
+    {
+      "id": "q36",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "He went to the post office to send a parcel.",
+          "He went to the post office for send a parcel.",
+          "He went to the post office sending a parcel.",
+          "He went to the post office for to send a parcel."
+        ]
+      },
+      "answer": "He went to the post office to send a parcel.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q37",
+      "type": "fill_blank",
+      "question": "Complete: She went to the library _____ (study).",
+      "content": {
+        "sentence": "She went to the library _____ .",
+        "word": "study"
+      },
+      "answer": "to study",
+      "explanation": "Use 'to' + base verb: 'to study'."
+    },
+    {
+      "id": "q38",
+      "type": "multiple_choice",
+      "question": "Which answer is correct for: Why do you take notes?",
+      "content": {
+        "choices": [
+          "To remember information.",
+          "For remember information.",
+          "Remembering information.",
+          "For to remember information."
+        ]
+      },
+      "answer": "To remember information.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q39",
+      "type": "fill_blank",
+      "question": "Complete: He went to the doctor _____ (get) medicine.",
+      "content": {
+        "sentence": "He went to the doctor _____ medicine.",
+        "word": "get"
+      },
+      "answer": "to get",
+      "explanation": "Use 'to' + base verb: 'to get'."
+    },
+    {
+      "id": "q40",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'to / ask / a / question'",
+      "content": {
+        "words": ["to", "ask", "a", "question"]
+      },
+      "answer": ["to", "ask", "a", "question"],
+      "explanation": "The correct order is 'to ask a question'."
+    },
+    {
+      "id": "q41",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "She went to the shop to buy some milk.",
+          "She went to the shop for buy some milk.",
+          "She went to the shop buying some milk.",
+          "She went to the shop for to buy some milk."
+        ]
+      },
+      "answer": "She went to the shop to buy some milk.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q42",
+      "type": "fill_blank",
+      "question": "Complete: I went to the cinema _____ (watch) a film.",
+      "content": {
+        "sentence": "I went to the cinema _____ a film.",
+        "word": "watch"
+      },
+      "answer": "to watch",
+      "explanation": "Use 'to' + base verb: 'to watch'."
+    },
+    {
+      "id": "q43",
+      "type": "multiple_choice",
+      "question": "Choose the correct answer: Why do you go to the library?",
+      "content": {
+        "choices": [
+          "To borrow books.",
+          "For borrow books.",
+          "Borrowing books.",
+          "For to borrow books."
+        ]
+      },
+      "answer": "To borrow books.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q44",
+      "type": "fill_blank",
+      "question": "Complete: She went to the bakery _____ (buy) bread.",
+      "content": {
+        "sentence": "She went to the bakery _____ bread.",
+        "word": "buy"
+      },
+      "answer": "to buy",
+      "explanation": "Use 'to' + base verb: 'to buy'."
+    },
+    {
+      "id": "q45",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'to / get / some / information'",
+      "content": {
+        "words": ["to", "get", "some", "information"]
+      },
+      "answer": ["to", "get", "some", "information"],
+      "explanation": "The correct order is 'to get some information'."
+    },
+    {
+      "id": "q46",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "He went to the airport to catch a flight.",
+          "He went to the airport for catch a flight.",
+          "He went to the airport catching a flight.",
+          "He went to the airport for to catch a flight."
+        ]
+      },
+      "answer": "He went to the airport to catch a flight.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q47",
+      "type": "fill_blank",
+      "question": "Complete: She went to the shop _____ (buy) vegetables.",
+      "content": {
+        "sentence": "She went to the shop _____ vegetables.",
+        "word": "buy"
+      },
+      "answer": "to buy",
+      "explanation": "Use 'to' + base verb: 'to buy'."
+    },
+    {
+      "id": "q48",
+      "type": "multiple_choice",
+      "question": "Which answer is correct for: Why do you go to school?",
+      "content": {
+        "choices": [
+          "To learn.",
+          "For learn.",
+          "Learning.",
+          "For to learn."
+        ]
+      },
+      "answer": "To learn.",
+      "explanation": "Use 'to' + verb for purpose."
+    },
+    {
+      "id": "q49",
+      "type": "fill_blank",
+      "question": "Complete: He went to the store _____ (buy) a newspaper.",
+      "content": {
+        "sentence": "He went to the store _____ a newspaper.",
+        "word": "buy"
+      },
+      "answer": "to buy",
+      "explanation": "Use 'to' + base verb: 'to buy'."
+    },
+    {
+      "id": "q50",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'to / practice / my / English'",
+      "content": {
+        "words": ["to", "practice", "my", "English"]
+      },
+      "answer": ["to", "practice", "my", "English"],
+      "explanation": "The correct order is 'to practice my English'."
+    }
+  ]
+}
