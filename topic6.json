@@ -1,0 +1,644 @@
+{
+  "id": "topic6",
+  "title": "Present simple: 'to be'",
+  "description": "Practice using the present simple of the verb 'to be' (am, is, are) in affirmative, negative, question, and short answer forms.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "question": "Which sentence is correct?",
+      "content": {
+        "choices": [
+          "I am a teacher.",
+          "I is a teacher.",
+          "I are a teacher.",
+          "I be a teacher."
+        ]
+      },
+      "answer": "I am a teacher.",
+      "explanation": "Use 'am' with 'I' in the present simple."
+    },
+    {
+      "id": "q2",
+      "type": "fill_blank",
+      "question": "Complete: She _____ (be) my friend.",
+      "content": {
+        "sentence": "She _____ my friend.",
+        "word": "be"
+      },
+      "answer": "is",
+      "explanation": "Use 'is' with he/she/it."
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "question": "Which is the correct negative form?",
+      "content": {
+        "choices": [
+          "He not a student.",
+          "He is not a student.",
+          "He are not a student.",
+          "He am not a student."
+        ]
+      },
+      "answer": "He is not a student.",
+      "explanation": "Use 'is not' or 'isn't' for he/she/it in negatives."
+    },
+    {
+      "id": "q4",
+      "type": "fill_blank",
+      "question": "Complete: We _____ (be) very busy at the moment.",
+      "content": {
+        "sentence": "We _____ very busy at the moment.",
+        "word": "be"
+      },
+      "answer": "are",
+      "explanation": "Use 'are' with we/you/they."
+    },
+    {
+      "id": "q5",
+      "type": "multiple_choice",
+      "question": "Which question is correct?",
+      "content": {
+        "choices": [
+          "Are you tired?",
+          "Is you tired?",
+          "Am you tired?",
+          "Be you tired?"
+        ]
+      },
+      "answer": "Are you tired?",
+      "explanation": "Use 'are' for you/we/they in questions."
+    },
+    {
+      "id": "q6",
+      "type": "fill_blank",
+      "question": "Complete: They _____ (be) on holiday in Italy.",
+      "content": {
+        "sentence": "They _____ on holiday in Italy.",
+        "word": "be"
+      },
+      "answer": "are",
+      "explanation": "Use 'are' with they."
+    },
+    {
+      "id": "q7",
+      "type": "multiple_choice",
+      "question": "Which is the correct contracted form?",
+      "content": {
+        "choices": [
+          "I'm not at work.",
+          "I amn't at work.",
+          "I not at work.",
+          "I isn't at work."
+        ]
+      },
+      "answer": "I'm not at work.",
+      "explanation": "The correct contraction is 'I'm not'."
+    },
+    {
+      "id": "q8",
+      "type": "fill_blank",
+      "question": "Complete: She _____ (not be) a student.",
+      "content": {
+        "sentence": "She _____ a student.",
+        "word": "not be"
+      },
+      "answer": "isn't",
+      "explanation": "Use 'isn't' for he/she/it in negatives."
+    },
+    {
+      "id": "q9",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "Money isn't important.",
+          "Money aren't important.",
+          "Money am not important.",
+          "Money not important."
+        ]
+      },
+      "answer": "Money isn't important.",
+      "explanation": "Use 'isn't' for singular uncountable nouns."
+    },
+    {
+      "id": "q10",
+      "type": "fill_blank",
+      "question": "Complete: We _____ (not be) hungry.",
+      "content": {
+        "sentence": "We _____ hungry.",
+        "word": "not be"
+      },
+      "answer": "aren't",
+      "explanation": "Use 'aren't' for we/you/they in negatives."
+    },
+    {
+      "id": "q11",
+      "type": "multiple_choice",
+      "question": "Which is the correct question?",
+      "content": {
+        "choices": [
+          "Is this your phone?",
+          "Are this your phone?",
+          "Am this your phone?",
+          "Be this your phone?"
+        ]
+      },
+      "answer": "Is this your phone?",
+      "explanation": "Use 'is' for singular subjects in questions."
+    },
+    {
+      "id": "q12",
+      "type": "fill_blank",
+      "question": "Complete: They _____ (not be) at home.",
+      "content": {
+        "sentence": "They _____ at home.",
+        "word": "not be"
+      },
+      "answer": "aren't",
+      "explanation": "Use 'aren't' for they in negatives."
+    },
+    {
+      "id": "q13",
+      "type": "multiple_choice",
+      "question": "Which is the correct short answer?",
+      "content": {
+        "choices": [
+          "Yes, I am.",
+          "Yes, I do.",
+          "Yes, I have.",
+          "Yes, I is."
+        ]
+      },
+      "answer": "Yes, I am.",
+      "explanation": "Use 'am' for 'I' in short answers."
+    },
+    {
+      "id": "q14",
+      "type": "fill_blank",
+      "question": "Complete: No, he _____ (not be).",
+      "content": {
+        "sentence": "No, he _____ .",
+        "word": "not be"
+      },
+      "answer": "isn't",
+      "explanation": "Use 'isn't' for he/she/it in negative short answers."
+    },
+    {
+      "id": "q15",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'They / are / on / holiday / in / Italy'",
+      "content": {
+        "words": ["They", "are", "on", "holiday", "in", "Italy"]
+      },
+      "answer": ["They", "are", "on", "holiday", "in", "Italy"],
+      "explanation": "The correct sentence is 'They are on holiday in Italy.'"
+    },
+    {
+      "id": "q16",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "Are we late?",
+          "Is we late?",
+          "Am we late?",
+          "Be we late?"
+        ]
+      },
+      "answer": "Are we late?",
+      "explanation": "Use 'are' for we/you/they in questions."
+    },
+    {
+      "id": "q17",
+      "type": "fill_blank",
+      "question": "Complete: Yes, she _____ (be).",
+      "content": {
+        "sentence": "Yes, she _____ .",
+        "word": "be"
+      },
+      "answer": "is",
+      "explanation": "Use 'is' for he/she/it in short answers."
+    },
+    {
+      "id": "q18",
+      "type": "multiple_choice",
+      "question": "Which is the correct negative contracted form?",
+      "content": {
+        "choices": [
+          "No, I'm not.",
+          "No, I amn't.",
+          "No, I not.",
+          "No, I isn't."
+        ]
+      },
+      "answer": "No, I'm not.",
+      "explanation": "The correct contraction is 'I'm not'."
+    },
+    {
+      "id": "q19",
+      "type": "fill_blank",
+      "question": "Complete: Yes, they _____ (be).",
+      "content": {
+        "sentence": "Yes, they _____ .",
+        "word": "be"
+      },
+      "answer": "are",
+      "explanation": "Use 'are' for we/you/they in short answers."
+    },
+    {
+      "id": "q20",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'He / is / my / wife's / brother'",
+      "content": {
+        "words": ["He", "is", "my", "wife's", "brother"]
+      },
+      "answer": ["He", "is", "my", "wife's", "brother"],
+      "explanation": "The correct sentence is 'He is my wife's brother.'"
+    },
+    {
+      "id": "q21",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "We're very busy at the moment.",
+          "We's very busy at the moment.",
+          "We am very busy at the moment.",
+          "We is very busy at the moment."
+        ]
+      },
+      "answer": "We're very busy at the moment.",
+      "explanation": "Use 'are' for we/you/they and contraction 'We're'."
+    },
+    {
+      "id": "q22",
+      "type": "fill_blank",
+      "question": "Complete: No, it _____ (not be).",
+      "content": {
+        "sentence": "No, it _____ .",
+        "word": "not be"
+      },
+      "answer": "isn't",
+      "explanation": "Use 'isn't' for he/she/it in negative short answers."
+    },
+    {
+      "id": "q23",
+      "type": "multiple_choice",
+      "question": "Which is the correct question?",
+      "content": {
+        "choices": [
+          "Is she Mexican?",
+          "Are she Mexican?",
+          "Am she Mexican?",
+          "Be she Mexican?"
+        ]
+      },
+      "answer": "Is she Mexican?",
+      "explanation": "Use 'is' for he/she/it in questions."
+    },
+    {
+      "id": "q24",
+      "type": "fill_blank",
+      "question": "Complete: Yes, we _____ (be).",
+      "content": {
+        "sentence": "Yes, we _____ .",
+        "word": "be"
+      },
+      "answer": "are",
+      "explanation": "Use 'are' for we/you/they in short answers."
+    },
+    {
+      "id": "q25",
+      "type": "multiple_choice",
+      "question": "Which is the correct negative form?",
+      "content": {
+        "choices": [
+          "They aren't at home.",
+          "They isn't at home.",
+          "They amn't at home.",
+          "They not at home."
+        ]
+      },
+      "answer": "They aren't at home.",
+      "explanation": "Use 'aren't' for they in negatives."
+    },
+    {
+      "id": "q26",
+      "type": "fill_blank",
+      "question": "Complete: Yes, it _____ (be).",
+      "content": {
+        "sentence": "Yes, it _____ .",
+        "word": "be"
+      },
+      "answer": "is",
+      "explanation": "Use 'is' for he/she/it in short answers."
+    },
+    {
+      "id": "q27",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "You're a good friend!",
+          "You's a good friend!",
+          "You am a good friend!",
+          "You is a good friend!"
+        ]
+      },
+      "answer": "You're a good friend!",
+      "explanation": "Use 'are' for you and contraction 'You're'."
+    },
+    {
+      "id": "q28",
+      "type": "fill_blank",
+      "question": "Complete: No, we _____ (not be).",
+      "content": {
+        "sentence": "No, we _____ .",
+        "word": "not be"
+      },
+      "answer": "aren't",
+      "explanation": "Use 'aren't' for we/you/they in negative short answers."
+    },
+    {
+      "id": "q29",
+      "type": "multiple_choice",
+      "question": "Which is the correct question?",
+      "content": {
+        "choices": [
+          "Are they your children?",
+          "Is they your children?",
+          "Am they your children?",
+          "Be they your children?"
+        ]
+      },
+      "answer": "Are they your children?",
+      "explanation": "Use 'are' for they in questions."
+    },
+    {
+      "id": "q30",
+      "type": "fill_blank",
+      "question": "Complete: Yes, he _____ (be).",
+      "content": {
+        "sentence": "Yes, he _____ .",
+        "word": "be"
+      },
+      "answer": "is",
+      "explanation": "Use 'is' for he/she/it in short answers."
+    },
+    {
+      "id": "q31",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'I / am / a / shop / assistant'",
+      "content": {
+        "words": ["I", "am", "a", "shop", "assistant"]
+      },
+      "answer": ["I", "am", "a", "shop", "assistant"],
+      "explanation": "The correct sentence is 'I am a shop assistant.'"
+    },
+    {
+      "id": "q32",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "He's my sister's husband.",
+          "He are my sister's husband.",
+          "He am my sister's husband.",
+          "He is my sisters husband."
+        ]
+      },
+      "answer": "He's my sister's husband.",
+      "explanation": "Use 'is' for he/she/it and contraction 'He's'."
+    },
+    {
+      "id": "q33",
+      "type": "fill_blank",
+      "question": "Complete: No, you _____ (not be).",
+      "content": {
+        "sentence": "No, you _____ .",
+        "word": "not be"
+      },
+      "answer": "aren't",
+      "explanation": "Use 'aren't' for you/we/they in negative short answers."
+    },
+    {
+      "id": "q34",
+      "type": "multiple_choice",
+      "question": "Which is the correct question?",
+      "content": {
+        "choices": [
+          "Am I late?",
+          "Is I late?",
+          "Are I late?",
+          "Be I late?"
+        ]
+      },
+      "answer": "Am I late?",
+      "explanation": "Use 'am' for I in questions."
+    },
+    {
+      "id": "q35",
+      "type": "fill_blank",
+      "question": "Complete: Yes, you _____ (be).",
+      "content": {
+        "sentence": "Yes, you _____ .",
+        "word": "be"
+      },
+      "answer": "are",
+      "explanation": "Use 'are' for you/we/they in short answers."
+    },
+    {
+      "id": "q36",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "She's not a student.",
+          "She not a student.",
+          "She isn't student.",
+          "She are not a student."
+        ]
+      },
+      "answer": "She's not a student.",
+      "explanation": "Use 'is not' or contraction 'She's not' for he/she/it in negatives."
+    },
+    {
+      "id": "q37",
+      "type": "fill_blank",
+      "question": "Complete: No, they _____ (not be).",
+      "content": {
+        "sentence": "No, they _____ .",
+        "word": "not be"
+      },
+      "answer": "aren't",
+      "explanation": "Use 'aren't' for they in negative short answers."
+    },
+    {
+      "id": "q38",
+      "type": "multiple_choice",
+      "question": "Which is the correct question?",
+      "content": {
+        "choices": [
+          "Who's she?",
+          "Who she is?",
+          "Who is she?",
+          "She who is?"
+        ]
+      },
+      "answer": "Who's she?",
+      "explanation": "Use 'Who is' or contraction 'Who's' for questions."
+    },
+    {
+      "id": "q39",
+      "type": "fill_blank",
+      "question": "Complete: What time _____ (be) it?",
+      "content": {
+        "sentence": "What time _____ it?",
+        "word": "be"
+      },
+      "answer": "is",
+      "explanation": "Use 'is' for he/she/it."
+    },
+    {
+      "id": "q40",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'We / are / very / busy / at / the / moment'",
+      "content": {
+        "words": ["We", "are", "very", "busy", "at", "the", "moment"]
+      },
+      "answer": ["We", "are", "very", "busy", "at", "the", "moment"],
+      "explanation": "The correct sentence is 'We are very busy at the moment.'"
+    },
+    {
+      "id": "q41",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "It's not important.",
+          "It not important.",
+          "It isn't important.",
+          "It are not important."
+        ]
+      },
+      "answer": "It's not important.",
+      "explanation": "Use 'is not' or contraction 'It's not' for he/she/it in negatives."
+    },
+    {
+      "id": "q42",
+      "type": "fill_blank",
+      "question": "Complete: No, it _____ (not be).",
+      "content": {
+        "sentence": "No, it _____ .",
+        "word": "not be"
+      },
+      "answer": "isn't",
+      "explanation": "Use 'isn't' for he/she/it in negative short answers."
+    },
+    {
+      "id": "q43",
+      "type": "multiple_choice",
+      "question": "Which is the correct question?",
+      "content": {
+        "choices": [
+          "When is the meeting?",
+          "When are the meeting?",
+          "When am the meeting?",
+          "When be the meeting?"
+        ]
+      },
+      "answer": "When is the meeting?",
+      "explanation": "Use 'is' for singular subjects in questions."
+    },
+    {
+      "id": "q44",
+      "type": "fill_blank",
+      "question": "Complete: Yes, it _____ (be).",
+      "content": {
+        "sentence": "Yes, it _____ .",
+        "word": "be"
+      },
+      "answer": "is",
+      "explanation": "Use 'is' for he/she/it in short answers."
+    },
+    {
+      "id": "q45",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "They're on holiday in Italy.",
+          "They is on holiday in Italy.",
+          "They am on holiday in Italy.",
+          "They are on holiday in Italy."
+        ]
+      },
+      "answer": "They're on holiday in Italy.",
+      "explanation": "Use 'are' for they and contraction 'They're'."
+    },
+    {
+      "id": "q46",
+      "type": "fill_blank",
+      "question": "Complete: No, I _____ (not be).",
+      "content": {
+        "sentence": "No, I _____ .",
+        "word": "not be"
+      },
+      "answer": "am not",
+      "explanation": "Use 'am not' for I in negative short answers."
+    },
+    {
+      "id": "q47",
+      "type": "multiple_choice",
+      "question": "Which is the correct question?",
+      "content": {
+        "choices": [
+          "What is your name?",
+          "What are your name?",
+          "What am your name?",
+          "What be your name?"
+        ]
+      },
+      "answer": "What is your name?",
+      "explanation": "Use 'is' for singular subjects in questions."
+    },
+    {
+      "id": "q48",
+      "type": "fill_blank",
+      "question": "Complete: Yes, she _____ (be).",
+      "content": {
+        "sentence": "Yes, she _____ .",
+        "word": "be"
+      },
+      "answer": "is",
+      "explanation": "Use 'is' for he/she/it in short answers."
+    },
+    {
+      "id": "q49",
+      "type": "multiple_choice",
+      "question": "Which is correct?",
+      "content": {
+        "choices": [
+          "We're not hungry.",
+          "We not hungry.",
+          "We isn't hungry.",
+          "We am not hungry."
+        ]
+      },
+      "answer": "We're not hungry.",
+      "explanation": "Use 'are not' or contraction 'We're not' for we/you/they in negatives."
+    },
+    {
+      "id": "q50",
+      "type": "sentence_order",
+      "question": "Arrange the words: 'What / time / is / it'",
+      "content": {
+        "words": ["What", "time", "is", "it"]
+      },
+      "answer": ["What", "time", "is", "it"],
+      "explanation": "The correct sentence is 'What time is it?'"
+    }
+  ]
+}
